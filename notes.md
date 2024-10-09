@@ -1,3 +1,5 @@
+-Fixed Angel/Goop interaction.
+
 -Fixed Devil/Angel interaction and the Devil is re-enabled for use.
 
 -Fixed Giant was crashing unranked(blind pick) games during game start
