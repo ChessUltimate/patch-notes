@@ -1,3 +1,5 @@
+-Fixed Devil/Angel interaction and the Devil is re-enabled for use.
+
 -Fixed Giant was crashing unranked(blind pick) games during game start
 
 -Added the ability to see patch notes and known bugs in game.
