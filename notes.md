@@ -1,3 +1,5 @@
+-Fixed Giant was crashing unranked(blind pick) games during game start
+
 -Added the ability to see patch notes and known bugs in game.
 
 -Disabled Devil temporarily.
