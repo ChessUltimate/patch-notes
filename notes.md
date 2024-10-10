@@ -6,7 +6,7 @@ Version 4.57
 
 -Fixed an issue with the CPU(BOT) not generating a team in certain situations.
 
--Fixed Prince checkmate softlocking the game.
+-Fixed Prince checkmate soft locking the game.
 
 -Fixed Angel/Goop interaction.
 
