@@ -1,4 +1,22 @@
+Version 4.58
+
+--Bug Fixes--
+
+-Copy Cat/Parasite interaction.
+
+-Bomb/Parasite interaction Parasite wasn't knocked-out correctly on client.
+
+-Copy Cat/Goop interaction fixed.
+
+-Devil/Ghost revealing ghost on server.
+
+-Checker landing on ghost desync.
+
+-Moving a ghost into a checker soft locked the game.
+
 Version 4.57
+
+--Bug Fixes--
 
 -Fixed Jester/Parasite interaction.
 
