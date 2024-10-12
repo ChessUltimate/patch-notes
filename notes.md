@@ -1,4 +1,5 @@
 Version 4.59
+
 --Bug Fixes--
 
 -Devil/Parasite interaction minions were changing teams when placed.
