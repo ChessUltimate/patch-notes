@@ -1,3 +1,10 @@
+Version 4.59
+--Bug Fixes--
+
+-Devil/Parasite interaction minions were changing teams when placed.
+
+-Rabi skin for Bishop didn't attack.
+
 Version 4.58
 
 --Bug Fixes--
