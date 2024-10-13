@@ -1,3 +1,13 @@
+Version 4.6
+
+Oct 13 2024
+
+--Bug Fixes--
+
+Angel/Copy Cat interaction.
+
+Bomb/Angel interactions.
+
 Version 4.59
 
 --Bug Fixes--
