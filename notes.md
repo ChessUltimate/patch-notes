@@ -10,6 +10,8 @@ Bomb/Angel interactions.
 
 Version 4.59
 
+Oct 11 2024
+
 --Bug Fixes--
 
 -Devil/Parasite interaction minions were changing teams when placed.
@@ -19,6 +21,8 @@ Version 4.59
 -Angel/Goop interaction causing desync.
 
 Version 4.58
+
+Oct 10 2024
 
 --Bug Fixes--
 
@@ -35,6 +39,8 @@ Version 4.58
 -Moving a ghost into a checker soft locked the game.
 
 Version 4.57
+
+Oct 9 2024
 
 --Bug Fixes--
 
