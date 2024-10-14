@@ -1,6 +1,24 @@
-Version 4.6
+Version 4.61 - (Oct 14 2024)
 
-Oct 13 2024
+--Bug Fixes--
+
+Parasite bug was introduced while fixing the Devil/Parasite issue and is now fixed.
+
+Parasite/Copy Cat interaction.
+
+Parasite/Goop interaction.
+
+Sludge/Devil interaction.
+
+Minion/Minion interaction.
+
+Parasite wasn't getting knocked out to explosion.
+
+Bomb/Copy Cat interaction.
+
+When Mage swapped a Giant it wasn't properly knocking out characters beneath the Giant.
+
+Version 4.6 - (Oct 13 2024)
 
 --Bug Fixes--
 
@@ -8,9 +26,7 @@ Angel/Copy Cat interaction.
 
 Bomb/Angel interactions.
 
-Version 4.59
-
-Oct 11 2024
+Version 4.59 - (Oct 11 2024)
 
 --Bug Fixes--
 
@@ -20,9 +36,7 @@ Oct 11 2024
 
 -Angel/Goop interaction causing desync.
 
-Version 4.58
-
-Oct 10 2024
+Version 4.58 - (Oct 10 2024)
 
 --Bug Fixes--
 
@@ -38,9 +52,7 @@ Oct 10 2024
 
 -Moving a ghost into a checker soft locked the game.
 
-Version 4.57
-
-Oct 9 2024
+Version 4.57 - (Oct 9 2024)
 
 --Bug Fixes--
 
