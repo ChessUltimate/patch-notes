@@ -1,3 +1,9 @@
+Version 4.611 - (Oct 15 2024)
+
+--Bug Fixes--
+
+Account linking is fixed.
+
 Version 4.61 - (Oct 14 2024)
 
 --Bug Fixes--
