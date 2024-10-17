@@ -4,15 +4,13 @@ Version 4.62 - (Oct 16 2024)
 
 Version 4.611 - (Oct 15 2024)
 
---Bug Fixes--
-
 -Account linking is fixed.
 
 Version 4.61 - (Oct 14 2024)
 
 --Bug Fixes--
 
-Parasite bug was introduced while fixing the Devil/Parasite issue and is now fixed.
+-Parasite bug was introduced while fixing the Devil/Parasite issue and is now fixed.
 
 -Parasite/Copy Cat interaction.
 
@@ -32,9 +30,9 @@ Version 4.6 - (Oct 13 2024)
 
 --Bug Fixes--
 
-Angel/Copy Cat interaction.
+-Angel/Copy Cat interaction.
 
-Bomb/Angel interactions.
+-Bomb/Angel interactions.
 
 Version 4.59 - (Oct 11 2024)
 
