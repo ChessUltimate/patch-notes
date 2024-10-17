@@ -1,8 +1,12 @@
+Version 4.62 - (Oct 16 2024)
+
+-Added quality setting and should now run better on mobile devices.
+
 Version 4.611 - (Oct 15 2024)
 
 --Bug Fixes--
 
-Account linking is fixed.
+-Account linking is fixed.
 
 Version 4.61 - (Oct 14 2024)
 
@@ -10,19 +14,19 @@ Version 4.61 - (Oct 14 2024)
 
 Parasite bug was introduced while fixing the Devil/Parasite issue and is now fixed.
 
-Parasite/Copy Cat interaction.
+-Parasite/Copy Cat interaction.
 
-Parasite/Goop interaction.
+-Parasite/Goop interaction.
 
-Sludge/Devil interaction.
+-Sludge/Devil interaction.
 
-Minion/Minion interaction.
+-Minion/Minion interaction.
 
-Parasite wasn't getting knocked out to explosion.
+-Parasite wasn't getting knocked out to explosion.
 
-Bomb/Copy Cat interaction.
+-Bomb/Copy Cat interaction.
 
-When Mage swapped a Giant it wasn't properly knocking out characters beneath the Giant.
+-When Mage swapped a Giant it wasn't properly knocking out characters beneath the Giant.
 
 Version 4.6 - (Oct 13 2024)
 
