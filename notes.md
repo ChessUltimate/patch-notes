@@ -2,6 +2,12 @@ Version 4.62 - (Oct 16 2024)
 
 -Added quality setting and should now run better on mobile devices.
 
+--Bug Fixes--
+
+-Issue with Checker pinned Checkmate.
+
+-Stalemate recorded as a Checkmate.
+
 Version 4.611 - (Oct 15 2024)
 
 -Account linking is fixed.
