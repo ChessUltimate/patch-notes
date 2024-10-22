@@ -1,3 +1,39 @@
+Version 4.63 - (Oct 22 2024)
+
+-Added queue timer and average queue wait time.
+
+-Added scheduled maintenance notification.
+
+-Added 50 move rule where if no character is captured within 50 turns the game is a draw.
+
+-Added draw when no checkmate is available.
+
+--Bug Fixes--
+
+-Bomb issues.
+
+-Copy cat clone wasnt getting assigned skin.
+
+-Couldn't properly scroll on friends list while dragging.
+
+-Battle pass unlocks weren't unlocking until game reset.
+
+-Main menu displayed rank wasnt updated properly when coming out of placement matches.
+
+-Score board issues.
+
+-Sniper/Bomb interaction.
+
+-Copy Cat in draft mode.
+
+-Angel issue when reconnecting/take back.
+
+-Copy Cat/Mage interaction.
+
+-Issue when clicking a character that was moving would cause a desync.
+
+-Issue when buying a character from the team maker.
+
 Version 4.62 - (Oct 16 2024)
 
 -Added quality setting and should now run better on mobile devices.
