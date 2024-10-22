@@ -12,7 +12,7 @@ Version 4.63 - (Oct 22 2024)
 
 -Bomb issues.
 
--Copy cat clone wasnt getting assigned skin.
+-Copy Cat Partner wasnt getting assigned skin.
 
 -Couldn't properly scroll on friends list while dragging.
 
