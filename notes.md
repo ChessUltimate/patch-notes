@@ -4,7 +4,7 @@ Version 4.63 - (Oct 22 2024)
 
 -Added scheduled maintenance notification.
 
--Added 50 move rule where if no character is captured within 50 turns the game is a draw.
+-Added 50 move rule where if no character is knocked-out within 50 turns the game is a draw.
 
 -Added draw when no checkmate is available.
 
