@@ -1,3 +1,19 @@
+Version 4.64 - (Oct 27 2024)
+
+-Should work better for worse connections.
+
+--Bug Fixes--
+
+-Mage/Ghost interaction.
+
+-Sludge/Ghost interaction.
+
+-Draft bug when picking and another menu gets opened.
+
+-Checkmate being recorded as a stalemate.
+
+-Maintenance warning showing for only 1 second before connecting.
+
 Version 4.63 - (Oct 22 2024)
 
 -Added queue timer and average queue wait time.
