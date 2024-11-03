@@ -1,3 +1,15 @@
+Version 4.65 - (Nov 2 2024)
+
+-You can now save and watch replays of games.
+
+-Menu changes.
+
+--Bug Fixes--
+
+-King/Jester/Sludge interaction.
+
+-Tutorial fixes.
+
 Version 4.64 - (Oct 27 2024)
 
 -Should work better for worse connections.
