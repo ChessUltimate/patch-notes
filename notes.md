@@ -1,3 +1,27 @@
+Version 4.66 - (Nov 12 2024)
+
+-Languages added.
+
+--Bug Fixes--
+
+-Sniper/Bomb caused a resync.
+
+-Bug when watching an online replay that had a Ghost on the enemy team.
+
+-Angel bug.
+
+-Mage bug.
+
+-Prince lilipad didn't go away when attacking into an Angel.
+
+-draft text blocked by raccoon head on start.
+
+-score keepers wrong on game start.
+
+-spawn piece group issue.
+
+-issue when going into blind invite then going to team maker will have a blank board.
+
 Version 4.65 - (Nov 2 2024)
 
 -You can now save and watch replays of games.
