@@ -1,3 +1,11 @@
+Version 4.67 - (Nov 17 2024)
+
+--Bug Fixes--
+
+-Sludge/Bomb interaction
+
+-Coin was flipped backwards for player 2
+
 Version 4.663 - (Nov 13 2024)
 
 --Bug Fixes--
