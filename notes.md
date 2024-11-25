@@ -1,10 +1,26 @@
+Version 4.68 - (Nov 24 2024)
+
+-You can now download and watch anyones replay via match history.
+
+-You can now navigate the game while in queue.
+
+-You can now earn battle pass experience and character unlock keys against the bot and connected to the game server.
+
+-You can now earn battle pass experience and character unlock keys in friendly matches.
+
+--Bug Fixes--
+
+-Resolution wasn't updating until game restart.
+
+-Battle pass issue.
+
 Version 4.67 - (Nov 17 2024)
 
 --Bug Fixes--
 
--Sludge/Bomb interaction
+-Sludge/Bomb interaction.
 
--Coin was flipped backwards for player 2
+-Coin was flipped backwards for player 2.
 
 Version 4.663 - (Nov 13 2024)
 
