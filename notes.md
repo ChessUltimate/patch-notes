@@ -14,7 +14,7 @@ Version 4.681 - (Nov 26 2024) **hot fix**
 
 --Bug Fixes--
 
--Game invites werent working since last update.
+-Game invites weren't working since last update.
 
 Version 4.68 - (Nov 24 2024)
 
