@@ -1,3 +1,15 @@
+Version 4.69 - (Nov 28 2024)
+
+-Visual update for the Rubber Duck Freeze skin.
+
+--Bug Fixes--
+
+-Ghost wasn't revealing when moving into range of King/Jester.
+
+-Sludge/Goop was broken.
+
+-During draft pick the commit draft button was showing before meeting the minimum point threshold.
+
 Version 4.681 - (Nov 26 2024) **hot fix**
 
 --Bug Fixes--
