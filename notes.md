@@ -1,3 +1,19 @@
+Version 4.7 - (Dec 02 2024)
+
+-Friendly invites have been improved.
+
+-Menu Updates.
+
+-Minions only show their movement indicator before they are about to move now.
+
+--Bug Fixes--
+
+-Daily bonus issue.
+
+-Mobile version check issue.
+
+-Menu issues.
+
 Version 4.69 - (Nov 28 2024)
 
 -Visual update for the Rubber Duck Freeze skin.
