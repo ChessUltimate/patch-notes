@@ -1,3 +1,13 @@
+Version 4.71 - (Dec 06 2024)
+
+-Profanity filter.
+
+-Game chat added.
+
+--Bug Fixes--
+
+-Many menu bugs since last update.
+
 Version 4.7 - (Dec 02 2024)
 
 -Friendly invites have been improved.
