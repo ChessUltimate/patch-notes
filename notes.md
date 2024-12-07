@@ -1,3 +1,11 @@
+Version 4.711 - (Dec 06 2024)
+
+-You can now be in Check, Checkmate and Stalemate on the first move.
+
+--Bug Fixes--
+
+-More menu fixes
+
 Version 4.71 - (Dec 06 2024)
 
 -Profanity filter.
