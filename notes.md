@@ -1,3 +1,19 @@
+Version 4.72 - (Dec 08 2024)
+
+-Everyone gets the the thumbs up emote for free!
+
+-Bot improvements.
+
+-Can only send 3 emotes per turn now.
+
+--Bug Fixes--
+
+-Removed text from emotes.
+
+-Daily bonus wasn't resetting.
+
+-More menu fixes.
+
 Version 4.711 - (Dec 06 2024)
 
 -You can now be in Check, Checkmate and Stalemate on the first move.
