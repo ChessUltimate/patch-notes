@@ -1,3 +1,11 @@
+Version 4.721 - (Dec 09 2024)
+
+--Bug Fixes--
+
+-Turtle fix applied but will only be reactivated once all platforms have access to this update.
+
+-More menu fixes.
+
 Version 4.72 - (Dec 08 2024)
 
 -Everyone gets the the thumbs up emote for free!
