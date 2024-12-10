@@ -2,7 +2,7 @@ Version 4.721 - (Dec 09 2024)
 
 --Bug Fixes--
 
--Turtle fix applied but will only be reactivated once all platforms have access to this update.
+-Turtle fix.
 
 -More menu fixes.
 
