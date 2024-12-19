@@ -1,3 +1,13 @@
+Version 4.73 - (Dec 18 2024)
+
+-Updated rank border art.
+
+-Added seasonal ranked rewards.
+
+--Bug Fixes--
+
+-More menu fixes.
+
 Version 4.721 - (Dec 09 2024)
 
 --Bug Fixes--
