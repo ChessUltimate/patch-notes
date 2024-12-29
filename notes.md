@@ -1,3 +1,21 @@
+Version 4.74 - (Dec 29 2024)
+
+-Freeze character rework (Now named Penguin).
+
+-Added more turn indicators.
+
+-Added transaction history.
+
+--Bug Fixes--
+
+-More menu fixes.
+
+-Fixed bug where when making a team in blind game friendly match and clearing board pressing ready will give an error.
+
+-Copy Cat partner wasn't setting color properly.
+
+-Tutorial fixes.
+
 Version 4.73 - (Dec 18 2024)
 
 -Updated rank border art.
