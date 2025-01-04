@@ -16,6 +16,8 @@ Version 4.75 - (Jan 05 2025)
 
 -Disconnect login wouldn't let you log back in.
 
+-Fixed account linking.
+
 Version 4.74 - (Dec 29 2024)
 
 -Freeze character rework (Now named Penguin).
