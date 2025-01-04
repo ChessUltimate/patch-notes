@@ -1,3 +1,21 @@
+Version 4.75 - (Jan 05 2025)
+
+-Menu size changes.
+
+--Bug Fixes--
+
+-Penguin fixes.
+
+-Penguin/Sludge sludge went invisible.
+
+-Penguin/Checker interaction.
+
+-Menu fixes.
+
+-Turn indicator fix.
+
+-Disconnect login wouldn't let you log back in.
+
 Version 4.74 - (Dec 29 2024)
 
 -Freeze character rework (Now named Penguin).
