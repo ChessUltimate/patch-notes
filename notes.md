@@ -1,3 +1,17 @@
+Version 4.76 - (Jan 06 2025)
+
+-Added a tooltip for people who are trying to play ranked for the first time.
+
+-More translations added for supported languages.
+
+--Bug Fixes--
+
+-Minion didn't get the frozen material when frozen.
+
+-Menu fixes.
+
+-Penugin fixes.
+
 Version 4.75 - (Jan 05 2025)
 
 -Menu size changes.
