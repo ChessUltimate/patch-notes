@@ -1,3 +1,19 @@
+Version 4.77 - (Jan 07 2025)
+
+-Increased emote resolution for PC.
+
+--Bug Fixes--
+
+-Fixed unable to watch bot replays.
+
+-CopyCat/Penguin interaction.
+
+-Not able to play against certain bot levels.
+
+-Not receiveing battle pass exp for bot games.
+
+-Fixed unlink account.
+
 Version 4.76 - (Jan 06 2025)
 
 -Added a tooltip for people who are trying to play ranked for the first time.
