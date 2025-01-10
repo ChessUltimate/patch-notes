@@ -1,3 +1,19 @@
+Version 4.78 - (Jan 10 2025)
+
+--Bug Fixes--
+
+-On mobile if you had too many emotes the list of emotes would go off screen in game.
+
+-On mobile in draft pick mode the emote button blocked the lock-in button and i've moved and resized the lock-in button.
+
+-Penguin/Checker interaction.
+
+-Penguin bugs.
+
+-Trying to start a replay from match history didn't work.
+
+-Penguin/Ghost interaction/
+
 Version 4.77 - (Jan 07 2025)
 
 -Increased emote resolution for PC.
