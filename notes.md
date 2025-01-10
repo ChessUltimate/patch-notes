@@ -12,7 +12,7 @@ Version 4.78 - (Jan 10 2025)
 
 -Trying to start a replay from match history didn't work.
 
--Penguin/Ghost interaction/
+-Penguin/Ghost interaction.
 
 Version 4.77 - (Jan 07 2025)
 
