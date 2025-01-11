@@ -1,3 +1,19 @@
+Version 4.79 - (Jan 10 2025)
+
+--Bug Fixes--
+
+-Quests progress didn't show properly on game over menu.
+
+-Castling fix.
+
+-Cooldown tracking display fixed.
+
+-Checker forced move display fixed.
+
+-Tornado blinked for one frame.
+
+-Changed color of square indicator.
+
 Version 4.78 - (Jan 10 2025)
 
 --Bug Fixes--
