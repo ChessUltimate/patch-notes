@@ -1,5 +1,7 @@
 Version 4.79 - (Jan 10 2025)
 
+-Changed color of square indicator.
+
 --Bug Fixes--
 
 -Quests progress didn't show properly on game over menu.
@@ -11,8 +13,6 @@ Version 4.79 - (Jan 10 2025)
 -Checker forced move display fixed.
 
 -Tornado blinked for one frame.
-
--Changed color of square indicator.
 
 Version 4.78 - (Jan 10 2025)
 
