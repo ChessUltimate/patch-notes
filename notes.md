@@ -1,3 +1,19 @@
+Version 4.8 - (Jan 31 2025)
+
+-Penguin nerf.
+
+--Bug Fixes--
+
+-Black Pawn skin fixed.
+
+-Red Checker skin fixed.
+
+-Bot fixes.
+
+-Gameplay fixes.
+
+-UI fixes.
+
 Version 4.79 - (Jan 10 2025)
 
 -Changed color of square indicator.
