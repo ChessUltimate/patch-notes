@@ -1,3 +1,17 @@
+Version 4.81 - (Jan 31 2025)
+
+--Bug Fixes--
+
+-UI fixes.
+
+-Fixed Penguin description.
+
+-Penguin/Checker interaction.
+
+-Visual fixes.
+
+-Black Pawn skin fixed.
+
 Version 4.8 - (Jan 31 2025)
 
 -Penguin nerf.
