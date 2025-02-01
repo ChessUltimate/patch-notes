@@ -10,8 +10,6 @@ Version 4.81 - (Jan 31 2025)
 
 -Visual fixes.
 
--Black Pawn skin fixed.
-
 Version 4.8 - (Jan 31 2025)
 
 -Penguin nerf.
