@@ -16,7 +16,6 @@ Bot games wouldn't reward you if you were in queue.
 
 Menu fixes.
 
-
 Version 4.811 - (Feb 01 2025)
 
 --Bug Fixes--
