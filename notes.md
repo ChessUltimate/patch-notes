@@ -1,20 +1,32 @@
+Version 4.83 - (March 18 2025)
+
+--Visual Update--
+
+--Bug Fixes--
+
+-Game queue bug.
+
+-Camera pivot didn't move to board when accepting game queue/invite and looking at an item preview.
+
+-Menu fixes.
+
 Version 4.82 - (Feb 19 2025)
 
 --Balance Change--
 
-Buffed Giant point cost changed from 5 -> 1.
+-Buffed Giant point cost changed from 5 -> 1.
 
-Nerfed Pawn point cost changed from 2 -> 3.
+-Nerfed Pawn point cost changed from 2 -> 3.
 
-Nerfed Copy Cat point cost changed from 2 -> 3.
+-Nerfed Copy Cat point cost changed from 2 -> 3.
 
-Nerfed Turtle point cost changed from 2 -> 3.
+-Nerfed Turtle point cost changed from 2 -> 3.
 
 --Bug Fixes--
 
-Bot games wouldn't reward you if you were in queue.
+-Bot games wouldn't reward you if you were in queue.
 
-Menu fixes.
+-Menu fixes.
 
 Version 4.811 - (Feb 01 2025)
 
