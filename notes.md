@@ -1,3 +1,11 @@
+Version 4.84 - (March 25 2025)
+
+--Bug Fixes--
+
+-Visual fixes.
+
+-Menu fixes.
+
 Version 4.83 - (March 18 2025)
 
 --Visual Update--
