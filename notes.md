@@ -1,3 +1,13 @@
+Version 4.85 - (March 27 2025)
+
+--Bug Fixes--
+
+-Visual fixes.
+
+-Menu fixes.
+
+-Added missing translations.
+
 Version 4.84 - (March 25 2025)
 
 --Bug Fixes--
