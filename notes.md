@@ -1,3 +1,13 @@
+Version 4.852 - (March 31 2025)
+
+--Bug Fixes--
+
+-Visual fixes.
+
+-Menu fixes.
+
+-Resync issue with characters on cooldown.
+
 Version 4.85 - (March 27 2025)
 
 --Bug Fixes--
