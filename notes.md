@@ -1,6 +1,6 @@
 Version 4.86 - (April 08 2025)
 
--Added creator code functionality.  (If you're a creator and want a code let me know via discord!)
+-Added creator code functionality.  (If you're a content creator and want a code let me know via discord!)
 
 -Added discord button on main menu.
 
