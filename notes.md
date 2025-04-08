@@ -1,3 +1,15 @@
+Version 4.86 - (April 08 2025)
+
+-Added creator code functionality.  (If you're a creator and want a code let me know via discord!)
+
+-Added discord button on main menu.
+
+-Added a way to set your default camera view. (Settings -> Visual -> Default View)
+
+--Bug Fixes--
+
+-Menu fixes.
+
 Version 4.852 - (March 31 2025)
 
 --Bug Fixes--
