@@ -1,3 +1,11 @@
+Version 4.861 - (April 11 2025)
+
+--Bug Fixes--
+
+-Penguin/Giant interaction giant was indefinitely frozen.
+
+-Penguin take back wouldn't unfreeze characters if it moved once.
+
 Version 4.86 - (April 08 2025)
 
 -Added creator code functionality.  (If you're a content creator and want a code let me know via discord!)
