@@ -1,3 +1,9 @@
+Version 4.862 - (April 12 2025)
+
+--Bug Fix--
+
+-Issue with messages writing lines backwards numbers and symbols writing incorrectly.
+
 Version 4.861 - (April 11 2025)
 
 --Bug Fixes--
