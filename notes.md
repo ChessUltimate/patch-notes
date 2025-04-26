@@ -1,3 +1,29 @@
+Version 4.87 - (April 25 2025)
+
+--Bug Report Feature Added--
+
+-You can now send me a replay and description of the replay to help squash those bugs.
+
+--UPDATED TRANSLATIONS--
+
+-The language translations should be more accurate now.
+
+--Bug Fixes--
+
+-Copy Cat bug.
+
+-Sniper bullet visual bug.
+
+-King little pawns visual bug.
+
+-Angle/Angel interaction.
+
+-Giant world go through ground at high unit speed.
+
+-After opening a menu in draft pick phase you couldn't lock in your pick.
+
+-Sludge would cause a resync at high fps and unit speed.
+
 Version 4.862 - (April 12 2025)
 
 --Bug Fix--
