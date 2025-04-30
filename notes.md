@@ -16,7 +16,7 @@ Version 4.87 - (April 25 2025)
 
 -King little pawns visual bug.
 
--Angle/Angel interaction.
+-Angel/Angel interaction.
 
 -Giant world go through ground at high unit speed.
 
