@@ -1,3 +1,33 @@
+Version 4.88 - (May 06 2025)
+
+--Balance--
+
+-You can now move through your own ghost!
+
+--Bug Fixes--
+
+-Jester bug.
+
+-Parasite bug.
+
+-Penguin bugs.
+
+-Mage/Minion interaction.
+
+-Bot can no longer move into check.
+
+-Bot King knock outs are now accounted for.
+
+-Bomb/Angel if angel is attached to bomb and bomb attacks it'll blow up still.
+
+-Sludge shouldn't get knocked to ghost when moving through it. The goop should knock the ghost. (still gets knocked out when moving into a ghost)
+
+-Sniper can't shoot their own team anymore.
+
+-Mage/Penguin interaction.
+
+-Square notation letters didn't get rotated when you are player 2.
+
 Version 4.87 - (April 25 2025)
 
 --Bug Report Feature Added--
