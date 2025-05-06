@@ -4,7 +4,11 @@ Version 4.88 - (May 06 2025)
 
 -You can now move through your own ghost!
 
+-Sniper can't shoot their own team anymore.
+
 --Bug Fixes--
+
+-Random disconnects from the server.
 
 -Jester bug.
 
@@ -21,8 +25,6 @@ Version 4.88 - (May 06 2025)
 -Bomb/Angel if angel is attached to bomb and bomb attacks it'll blow up still.
 
 -Sludge shouldn't get knocked to ghost when moving through it. The goop should knock the ghost. (still gets knocked out when moving into a ghost)
-
--Sniper can't shoot their own team anymore.
 
 -Mage/Penguin interaction.
 
