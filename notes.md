@@ -1,3 +1,17 @@
+SERVER HOT FIXES (May 06 2025)
+
+--Bug Fixes--
+
+-Some checkmates weren't recorded if the enemy had a Jester.
+
+-Duplication bug patched.
+
+-Can now spectate while in queue without potential conflict.
+
+-Adding friend issue.
+
+-Game Chat issue.
+
 Version 4.88 - (May 06 2025)
 
 --Balance--
