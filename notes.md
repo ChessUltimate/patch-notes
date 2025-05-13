@@ -2,9 +2,9 @@ SERVER HOT FIXES (May 06 2025)
 
 --Bug Fixes--
 
--Some checkmates weren't recorded if the enemy had a Jester.
-
 -Duplication bug patched.
+
+-Some checkmates weren't recorded if the enemy had a Jester.
 
 -Can now spectate while in queue without potential conflict.
 
