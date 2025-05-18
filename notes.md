@@ -1,3 +1,35 @@
+Version 4.89 - (May 18 2025)
+
+-Ranking calculation change.
+
+-In draft mode the game will auto send draft or make a ban for you if time is running out. (I will tackle the UI glitches next update)
+
+--Bug fixes--
+
+-Mage/Penguin interactions.
+
+-Sniper/Ghost interaction.
+
+-Checker/Goop interaction.
+
+-Parasite/Jester interaction.
+
+-Parasite/Angel/King interaction.
+
+-Penguin/Devil interaction.
+
+-Ghost/Checker interaction.
+
+-Timer issues.
+
+-Fixed Penguin not being able to move after draft pick.
+
+-Environment and tiles were resetting after games.
+
+-Frozen Copy Cat in replay.
+
+-Ninja movement.
+
 SERVER HOT FIXES (May 13 2025)
 
 --Bug Fixes--
