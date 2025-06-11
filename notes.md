@@ -1,3 +1,79 @@
+Version 4.9 - (June 11 2025)
+
+--Battle Pass Update--
+
+-Added free items.
+
+-You now get a 30% exp boost when you buy the battle pass.
+
+-Added icons-
+
+-Crying Cloud Icon.
+
+-Referee Icon.
+
+-Fishing Bear Icon.
+
+-Added Emotes-
+
+-Thinking Emote.
+
+-Angry Emote.
+
+-Added Skins-
+
+-Donut Checker.
+
+-Potion Bomb.
+
+-Bookworm Parasite.
+
+-Grey Mage.
+
+-Pixel Pawn.
+
+-Body Guard Turtle.
+
+-Slime Sludge.
+
+-NecroMancer Devil.
+
+--UI Changes--
+
+-All shop related menus have changed and are easier to navigate and equipped your skins.
+
+--Opimization--
+
+-Ice material changed to improve performance.
+
+--Updated Ranked Skins--
+
+--Bug Fixes--
+
+-Checker bot issue.
+
+-Copy cat bot issue.
+
+-Penguin tutorial.
+
+-Sniper tutorial.
+
+-Bomb/Bomb/Angel interaction.
+
+-Checker/Giant interaction.
+
+-Parasite/Goop interaction.
+
+-Parasite/Angel interaction.
+
+-Minion/Angel interaction.
+
+-Angel/Angel/copy cat interaction.
+
+-Angel/Giant interaction.
+
+-Sniper/Ghost interaction.
+
 Version 4.89 - (May 18 2025)
 
 -Ranking calculation change.
