@@ -1,3 +1,19 @@
+Version 4.92 - (June 28 2025)
+
+-Added automatic reconnect.
+
+--Bug Fixes--
+
+-Angel/Giant interaction.
+
+-UI fixes.
+
+-Angel/Pawn interaction.
+
+-Freeze/Minion Interaction.
+
+-Fixed bot issues.
+
 Version 4.9 - (June 11 2025)
 
 --Battle Pass Update--
