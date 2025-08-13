@@ -1,4 +1,38 @@
-Version 4.92 - (June 28 2025)
+---Version 5.0 - (August 13 2025)---
+
+-Weekly Tournaments will now be held in game every Saturday.
+
+-Custom rules added to friendly and vs Cpu games.
+
+-Added ally outline.
+
+-Changed character descriptions to be more concise.
+
+-You can now view your standing in the rank ladder.
+
+--Balance--
+
+-Bomb point cost 20->18.
+
+-Devil point cost 16->15.
+
+--Skins--
+
+-Tournament Pawn.
+
+-Tournament Checker.
+
+-Tournament Berserker.
+
+-Tournament Penguin.
+
+-Tournament Sniper.
+
+--Bug Fixes--
+
+-Menu fixes.
+
+---Version 4.92 - (June 28 2025)---
 
 -Added automatic reconnect.
 
@@ -14,7 +48,7 @@ Version 4.92 - (June 28 2025)
 
 -Fixed bot issues.
 
-Version 4.9 - (June 11 2025)
+---Version 4.9 - (June 11 2025)---
 
 --Battle Pass Update--
 
@@ -90,7 +124,7 @@ Version 4.9 - (June 11 2025)
 
 -Sniper/Ghost interaction.
 
-Version 4.89 - (May 18 2025)
+---Version 4.89 - (May 18 2025)---
 
 -Ranking calculation change.
 
@@ -136,7 +170,7 @@ SERVER HOT FIXES (May 13 2025)
 
 -Game Chat issue.
 
-Version 4.88 - (May 06 2025)
+---Version 4.88 - (May 06 2025)---
 
 --Balance--
 
@@ -168,7 +202,7 @@ Version 4.88 - (May 06 2025)
 
 -Square notation letters didn't get rotated when you are player 2.
 
-Version 4.87 - (April 25 2025)
+---Version 4.87 - (April 25 2025)---
 
 --Bug Report Feature Added--
 
@@ -194,13 +228,13 @@ Version 4.87 - (April 25 2025)
 
 -Sludge would cause a resync at high fps and unit speed.
 
-Version 4.862 - (April 12 2025)
+---Version 4.862 - (April 12 2025)---
 
 --Bug Fix--
 
 -Issue with messages writing lines backwards numbers and symbols writing incorrectly.
 
-Version 4.861 - (April 11 2025)
+---Version 4.861 - (April 11 2025)---
 
 --Bug Fixes--
 
@@ -208,7 +242,7 @@ Version 4.861 - (April 11 2025)
 
 -Penguin take back wouldn't unfreeze characters if it moved once.
 
-Version 4.86 - (April 08 2025)
+---Version 4.86 - (April 08 2025)---
 
 -Added creator code functionality.  (If you're a content creator and want a code let me know via discord!)
 
@@ -230,7 +264,7 @@ Version 4.852 - (March 31 2025)
 
 -Resync issue with characters on cooldown.
 
-Version 4.85 - (March 27 2025)
+---Version 4.85 - (March 27 2025)---
 
 --Bug Fixes--
 
@@ -240,7 +274,7 @@ Version 4.85 - (March 27 2025)
 
 -Added missing translations.
 
-Version 4.84 - (March 25 2025)
+---Version 4.84 - (March 25 2025)---
 
 --Bug Fixes--
 
@@ -248,7 +282,7 @@ Version 4.84 - (March 25 2025)
 
 -Menu fixes.
 
-Version 4.83 - (March 18 2025)
+---Version 4.83 - (March 18 2025)---
 
 --Visual Update--
 
@@ -260,7 +294,7 @@ Version 4.83 - (March 18 2025)
 
 -Menu fixes.
 
-Version 4.82 - (Feb 19 2025)
+---Version 4.82 - (Feb 19 2025)---
 
 --Balance Change--
 
@@ -278,13 +312,13 @@ Version 4.82 - (Feb 19 2025)
 
 -Menu fixes.
 
-Version 4.811 - (Feb 01 2025)
+---Version 4.811 - (Feb 01 2025)---
 
 --Bug Fixes--
 
 -Hotfix replay menu fix.
 
-Version 4.81 - (Jan 31 2025)
+---Version 4.81 - (Jan 31 2025)---
 
 --Bug Fixes--
 
@@ -296,7 +330,7 @@ Version 4.81 - (Jan 31 2025)
 
 -Visual fixes.
 
-Version 4.8 - (Jan 31 2025)
+---Version 4.8 - (Jan 31 2025)---
 
 -Penguin nerf.
 
@@ -312,7 +346,7 @@ Version 4.8 - (Jan 31 2025)
 
 -UI fixes.
 
-Version 4.79 - (Jan 10 2025)
+---Version 4.79 - (Jan 10 2025)---
 
 -Changed color of square indicator.
 
@@ -328,7 +362,7 @@ Version 4.79 - (Jan 10 2025)
 
 -Tornado blinked for one frame.
 
-Version 4.78 - (Jan 10 2025)
+---Version 4.78 - (Jan 10 2025)---
 
 --Bug Fixes--
 
@@ -344,7 +378,7 @@ Version 4.78 - (Jan 10 2025)
 
 -Penguin/Ghost interaction.
 
-Version 4.77 - (Jan 07 2025)
+---Version 4.77 - (Jan 07 2025)---
 
 -Increased emote resolution for PC.
 
@@ -360,7 +394,7 @@ Version 4.77 - (Jan 07 2025)
 
 -Fixed unlink account.
 
-Version 4.76 - (Jan 06 2025)
+---Version 4.76 - (Jan 06 2025)---
 
 -Added a tooltip for people who are trying to play ranked for the first time.
 
@@ -374,7 +408,7 @@ Version 4.76 - (Jan 06 2025)
 
 -Penugin fixes.
 
-Version 4.75 - (Jan 05 2025)
+---Version 4.75 - (Jan 05 2025)---
 
 -Menu size changes.
 
@@ -394,7 +428,7 @@ Version 4.75 - (Jan 05 2025)
 
 -Fixed account linking.
 
-Version 4.74 - (Dec 29 2024)
+---Version 4.74 - (Dec 29 2024)---
 
 -Freeze character rework (Now named Penguin).
 
@@ -412,7 +446,7 @@ Version 4.74 - (Dec 29 2024)
 
 -Tutorial fixes.
 
-Version 4.73 - (Dec 18 2024)
+---Version 4.73 - (Dec 18 2024)---
 
 -Updated rank border art.
 
@@ -422,7 +456,7 @@ Version 4.73 - (Dec 18 2024)
 
 -More menu fixes.
 
-Version 4.721 - (Dec 09 2024)
+---Version 4.721 - (Dec 09 2024)---
 
 --Bug Fixes--
 
@@ -430,7 +464,7 @@ Version 4.721 - (Dec 09 2024)
 
 -More menu fixes.
 
-Version 4.72 - (Dec 08 2024)
+---Version 4.72 - (Dec 08 2024)---
 
 -Everyone gets the the thumbs up emote for free!
 
@@ -446,7 +480,7 @@ Version 4.72 - (Dec 08 2024)
 
 -More menu fixes.
 
-Version 4.711 - (Dec 06 2024)
+---Version 4.711 - (Dec 06 2024)---
 
 -You can now be in Check, Checkmate and Stalemate on the first move.
 
@@ -454,7 +488,7 @@ Version 4.711 - (Dec 06 2024)
 
 -More menu fixes
 
-Version 4.71 - (Dec 06 2024)
+---Version 4.71 - (Dec 06 2024)---
 
 -Profanity filter.
 
@@ -464,7 +498,7 @@ Version 4.71 - (Dec 06 2024)
 
 -Many menu bugs since last update.
 
-Version 4.7 - (Dec 02 2024)
+---Version 4.7 - (Dec 02 2024)---
 
 -Friendly invites have been improved.
 
@@ -480,7 +514,7 @@ Version 4.7 - (Dec 02 2024)
 
 -Menu issues.
 
-Version 4.69 - (Nov 28 2024)
+---Version 4.69 - (Nov 28 2024)---
 
 -Visual update for the Rubber Duck Freeze skin.
 
@@ -492,13 +526,13 @@ Version 4.69 - (Nov 28 2024)
 
 -During draft pick the commit draft button was showing before meeting the minimum point threshold.
 
-Version 4.681 - (Nov 26 2024) **hot fix**
+---Version 4.681 - (Nov 26 2024) **hot fix**---
 
 --Bug Fixes--
 
 -Game invites weren't working since last update.
 
-Version 4.68 - (Nov 24 2024)
+---Version 4.68 - (Nov 24 2024)---
 
 -You can now download and watch anyones replay via match history.
 
@@ -514,7 +548,7 @@ Version 4.68 - (Nov 24 2024)
 
 -Battle pass issue.
 
-Version 4.67 - (Nov 17 2024)
+---Version 4.67 - (Nov 17 2024)---
 
 --Bug Fixes--
 
@@ -522,13 +556,13 @@ Version 4.67 - (Nov 17 2024)
 
 -Coin was flipped backwards for player 2.
 
-Version 4.663 - (Nov 13 2024)
+---Version 4.663 - (Nov 13 2024)---
 
 --Bug Fixes--
 
 -Replay bugs.
 
-Version 4.66 - (Nov 12 2024)
+---Version 4.66 - (Nov 12 2024)---
 
 -Languages added.
 
@@ -552,7 +586,7 @@ Version 4.66 - (Nov 12 2024)
 
 -issue when going into blind invite then going to team maker will have a blank board.
 
-Version 4.65 - (Nov 2 2024)
+---Version 4.65 - (Nov 2 2024)---
 
 -You can now save and watch replays of games.
 
@@ -564,7 +598,7 @@ Version 4.65 - (Nov 2 2024)
 
 -Tutorial fixes.
 
-Version 4.64 - (Oct 27 2024)
+---Version 4.64 - (Oct 27 2024)---
 
 -Should work better for worse connections.
 
@@ -580,7 +614,7 @@ Version 4.64 - (Oct 27 2024)
 
 -Maintenance warning showing for only 1 second before connecting.
 
-Version 4.63 - (Oct 22 2024)
+---Version 4.63 - (Oct 22 2024)---
 
 -Added queue timer and average queue wait time.
 
@@ -616,7 +650,7 @@ Version 4.63 - (Oct 22 2024)
 
 -Issue when buying a character from the team maker.
 
-Version 4.62 - (Oct 16 2024)
+---Version 4.62 - (Oct 16 2024)---
 
 -Added quality setting and should now run better on mobile devices.
 
@@ -626,11 +660,11 @@ Version 4.62 - (Oct 16 2024)
 
 -Stalemate recorded as a Checkmate.
 
-Version 4.611 - (Oct 15 2024)
+---Version 4.611 - (Oct 15 2024)---
 
 -Account linking is fixed.
 
-Version 4.61 - (Oct 14 2024)
+---Version 4.61 - (Oct 14 2024)---
 
 --Bug Fixes--
 
@@ -650,7 +684,7 @@ Version 4.61 - (Oct 14 2024)
 
 -When Mage swapped a Giant it wasn't properly knocking out characters beneath the Giant.
 
-Version 4.6 - (Oct 13 2024)
+---Version 4.6 - (Oct 13 2024)---
 
 --Bug Fixes--
 
@@ -658,7 +692,7 @@ Version 4.6 - (Oct 13 2024)
 
 -Bomb/Angel interactions.
 
-Version 4.59 - (Oct 11 2024)
+---Version 4.59 - (Oct 11 2024)---
 
 --Bug Fixes--
 
@@ -668,7 +702,7 @@ Version 4.59 - (Oct 11 2024)
 
 -Angel/Goop interaction causing desync.
 
-Version 4.58 - (Oct 10 2024)
+---Version 4.58 - (Oct 10 2024)---
 
 --Bug Fixes--
 
@@ -684,7 +718,7 @@ Version 4.58 - (Oct 10 2024)
 
 -Moving a ghost into a checker soft locked the game.
 
-Version 4.57 - (Oct 9 2024)
+---Version 4.57 - (Oct 9 2024)---
 
 --Bug Fixes--
 
