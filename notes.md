@@ -1,3 +1,17 @@
+---Version 5.1 - (August 22 2025)---
+
+-Changed time modes for draft pick to be 1 minute per turn until game starts.
+
+-Can now withdraw from the tournament.
+
+--Bug fixes--
+
+-Spectating issues.
+
+-Added a way to rejoin a tournament game if not prompted on login via the tournament ladder.
+
+-Menu fixes.
+
 ---Version 5.0 - (August 13 2025)---
 
 -Weekly Tournaments will now be held in game every Saturday.
