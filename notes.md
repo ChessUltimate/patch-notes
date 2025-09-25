@@ -1,3 +1,53 @@
+Version 5.21 - (September 09 2025)
+
+-Match made games are now 10 minutes each time mode.
+
+-Sleep now last 2 turns instead of 3 for clarity purposes.
+
+-Added more descriptions and a visual representation for characters moves.
+
+-Steam prices are always in USD now.
+
+-Added busy toggle to hide game invites.
+
+-Added alternative login method
+
+--Bug Fixes--
+
+-Prince bug when taking back the game only lets you move the Prince.
+
+-Multiple Penguin freeze bugs.
+
+-Bomb/Minion interaction.
+
+-Double ban bug where you were able to ban the same character more than once.
+
+-Fixed bug where after a take back or reconnect a visible ghost would go invisible.
+
+-Fixed timer issues.
+
+--Balance Change--
+
+-Point Changes-
+
+-Turtle 3->4
+
+-CopyCat 3->5
+
+-Knight 5->6
+
+-Bishop 8->9
+
+-Sniper 13->15
+
+-Ninja 30->25
+
+-Angel 40->20
+
+-Sniper now starts sleeping.
+
+-Angel rework.  Angel now spawns a Halo that serves a recall point when the attached character gets knocked out.  The Angel no longer retaliates attacks.
+
 ---Version 5.1 - (August 22 2025)---
 
 -Changed time modes for draft pick to be 1 minute per turn until game starts.
