@@ -1,4 +1,14 @@
-Version 5.21 - (September 09 2025)
+Version 5.26 - (September 27 2025)
+
+-Sludge goop now spawn on your own team.
+
+-Angel hot fix.
+
+-Bomb hot fix.
+
+-Ghost hot fix.
+
+Version 5.21 - (September 25 2025)
 
 -Match made games are now 10 minutes each time mode.
 
