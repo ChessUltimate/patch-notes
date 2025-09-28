@@ -1,5 +1,7 @@
 Version 5.26 - (September 27 2025)
 
+-Timer changed to 5:5.
+
 -Sludge goop now spawn on your own team.
 
 -Angel hot fix.
