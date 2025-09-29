@@ -1,3 +1,13 @@
+Version 5.27 - (September 29 2025)
+
+-Sludge/Ghost interaction fix.
+
+-Mage/Giant interaction fix.
+
+-Mage/Giant/Parasite interaction fix.
+
+-Giant/Angel interaction fix.
+
 Version 5.26 - (September 27 2025)
 
 -Timer changed to 5:5.
