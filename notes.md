@@ -1,3 +1,25 @@
+Version 5.28 - (October 01 2025)
+
+-Added turn timer.
+
+-In draft pick player 2's second pick phase minimum points to use is 40.
+
+-Tournament moved from 1pm EST to 4pm EST Saturday.
+
+-You can now sign up for the tournament 1 minute before it starts instead of 30 minutes.
+
+--Bug Fixes--
+
+-Sludge hot fix.
+
+-Added self healing to the tournament ladder if a game breaks itll restart it within 2 minutes.
+
+--Balance Change--
+
+-Angel 20->15
+
+-Point Changes-
+
 Version 5.27 - (September 29 2025)
 
 -Sludge/Ghost interaction fix.
