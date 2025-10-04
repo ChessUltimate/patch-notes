@@ -16,9 +16,9 @@ Version 5.28 - (October 01 2025)
 
 --Balance Change--
 
--Angel 20->15
-
 -Point Changes-
+
+-Angel 20->15
 
 Version 5.27 - (September 29 2025)
 
