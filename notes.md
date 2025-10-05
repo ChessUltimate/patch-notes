@@ -1,3 +1,25 @@
+Version 5.29 - (October 05 2025)
+
+--Balance Change--
+
+-Sniper no longer starts sleeping. (changed due to first turn stalemates)
+
+-Point Changes-
+
+-Angel 15->13
+
+-Sniper 15->17
+
+-Bug Fixes-
+
+-In draft mode the minimum point usage on 3rd pick phase is now 0.
+
+-Parasite/Angel interaction.
+
+-Checker/Bomb causing random knock out victories.
+
+-Prince/Angel interaction.
+
 Version 5.28 - (October 01 2025)
 
 -Added turn timer.
