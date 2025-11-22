@@ -43,7 +43,7 @@
 ---
 
 ## Bug Fixes
-- Fixed draw games showing incorrect point gains on the Game Over screen.  
+- Fixed draw games showing incorrect rank point gains on the Game Over screen.  
 - Fixed Draft King not defaulting to the selected skin.  
 - Fixed issue with dragging characters in Team Builder.  
 - Fixed exploit allowing ranked players to exceed 100 points.  
