@@ -1,4 +1,4 @@
-# Chess Ultimate — Version 5.4 Patch Notes
+# Version 5.4 Patch Notes
 
 ## Gameplay
 - Matchmade games now randomize Player 1 and Player 2.
