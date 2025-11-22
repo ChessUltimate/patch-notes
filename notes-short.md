@@ -58,7 +58,7 @@
 - Fixed Sniper shooting into a target with Angel attached when multiple Angels were on board causing issues.  
 - Fixed Mage-swapped characters not being freezable by Penguins.  
 - Fixed Draft Lock-In button sometimes not appearing or not clickable.  
-- Timer now gives a warning when below 10 seconds.  
+- Full timer now gives a warning when below 10 seconds.  
 - Fixed issue where switching from the game menu with under 60 seconds remaining hid the turn timer.  
 - Fixed crash when opening Messages tab right after a game ended.  
 - Fixed multi-move characters (Prince or Checker) subtracting time from the opponent’s timer, allowing it to go negative and break the game.
