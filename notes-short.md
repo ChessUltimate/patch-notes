@@ -1,6 +1,7 @@
 # Version 5.5 Patch Notes
 
 ## Gameplay
+- Added Local Play.
 - Added a Play Again button after matches.
 - You can now avoid specific players to prevent matching with them in queue.
 - If a tournament game is about to start while you are in a match, the current match will now be forfeited.
