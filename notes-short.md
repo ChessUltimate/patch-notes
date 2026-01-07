@@ -1,64 +1,77 @@
-# Version 5.4 Patch Notes
+# Version 5.5 Patch Notes
 
 ## Gameplay
-- Matchmade games now randomize Player 1 and Player 2.
-- Added threefold repetition draws.
-- Added a Ban button to the bottom-left of character details in Draft Mode to make banning easier.
+- Added a Play Again button after matches.
+- You can now avoid specific players to prevent matching with them in queue.
+- If a tournament game is about to start while you are in a match, the current match will now be forfeited.
+- Ghosts and Jesters are now revealed on Game Over.
+- Changed draw and take back requests to appear at the top of the screen to prevent accidental accepts and reduce spam.
+- Added a tournament description.
+- The last tournament winner is now displayed in the Play menu.
 
 ---
 
-## Balance Changes
-- Ninja: Points 25 → 22  
-- Bomb: Points 18 → 20
+## Tournaments
+- Tournament sign ups now open 10 minutes before the start time to improve participation.
+- Added a notification for weekly tournament start times.
+- Added a message at the top of the screen indicating when you are waiting for a tournament game to start.
+- Fixed an unnecessary delay after tournament games end.
 
 ---
 
-## New Cosmetics
-
-### Skin Variants
-- Skin variants are now available.
-
-### Bundles
-- Cosmic Mage Bundle  
-- Dog Pack
-
-### New Skins
-- Garden Gnome Mage  
-- Cosmic Mage  
-- Cosmic Mage (Red Variant)  
-- Cosmic Mage (Blue Variant)  
-- iwantcheckmage (Cosmic Mage Variant)  
-- Pug Bishop  
-- St. Bernard Bishop  
-- Corgi Bishop  
-- Dalmatian Bishop  
-- Golden Retriever Bishop  
-- German Shepherd Bishop
+## UI and Menu
+- Menu fixes and improvements.
+- Increased the maximum number of characters allowed in the email address field.
+- Added ghost indicator count to the in game menu UI.
+- Updated ghost move indicators.
+- Made ghosts more transparent while invisible.
+- Fixed issue where switching back to the default pawn icon was not possible.
 
 ---
 
-## Miscellaneous
-- Added two new gem tiers: 5000 and 10000.
+## Balance and Mechanics Fixes
+- Fixed Angel and Bomb interaction issues.
+- Fixed multiple Angel related bugs.
+- Fixed an issue where Giant and Copy Cat would not show knockout indicators correctly.
+- Fixed Giant surviving an explosion when Mage swapped it onto Bomb.
+- Fixed a Team Builder issue where Copy Cat and Giant could not be placed if you did not have enough points.
+- Fixed Copy Cat partner still considering a frozen host’s position when calculating available moves.
 
 ---
 
 ## Bug Fixes
-- Fixed draw games showing incorrect rank point gains on the Game Over screen.  
-- Fixed Draft King not defaulting to the selected skin.  
-- Fixed issue with dragging characters in Team Builder.  
-- Fixed exploit allowing ranked players to exceed 100 points.  
-- Fixed Bomb + Angel halo interaction.  
-- Fixed Bomb + Angel vs. Copy Cat bug.  
-- Fixed Bomb not knocking out Giant.  
-- Fixed Bomb teleporting when Angel attached against Parasite.  
-- Fixed Penguin sometimes not freezing when Mage was on the team.  
-- Fixed Bomb + Bomb + Angel vs. Giant.  
-- Fixed Parasite + Jester issue that prevented moves after the acquired piece was knocked out.  
-- Fixed Minion causing Bomb (with Angel attached) to teleport.  
-- Fixed Sniper shooting into a target with Angel attached when multiple Angels were on board causing issues.  
-- Fixed Mage-swapped characters not being freezable by Penguins.  
-- Fixed Draft Lock-In button sometimes not appearing or not clickable.  
-- Full timer now gives a warning when below 10 seconds.  
-- Fixed issue where switching from the game menu with under 60 seconds remaining hid the turn timer.  
-- Fixed crash when opening Messages tab right after a game ended.  
-- Fixed multi-move characters (Prince or Checker) subtracting time from the opponent’s timer, allowing it to go negative and break the game.
+- Fixed session tokens not refreshing properly after 30 minutes.
+- Fixed spectator desync when a Ghost revealed itself.
+- Fixed pawn moving into an invisible Ghost causing a resync.
+- Fixed Parasite taking a pawn that upgrades to Queen causing the game to stall until a sanity check.
+- Fixed issue where banning the King was possible in Draft Mode.
+- Fixed issue where a pawn with an attached Angel near an enemy Ghost could softlock the game.
+- Fixed an issue with registering alternative accounts.
+- Fixed players being able to drop below Bronze V and appear as unranked.
+- Disabled the turn changer in the Jester tutorial to prevent a softlock.
+
+---
+
+## Analytics and Performance
+- Added analytics tracking.
+- General optimizations and performance improvements.
+
+---
+
+## Cosmetics
+
+### New Bundles
+- Bowling Bundle
+
+### New Skins
+- Bowling Bomb  
+- Bowling Pawn  
+- Bowling Bomb (Red Variant)  
+- Bowling Bomb (Green Variant)  
+- Bowling Bomb (Blue Variant)  
+- Tournament Bowling Bomb Skin
+
+---
+
+## Miscellaneous
+- Removed expiry time from verification emails.
