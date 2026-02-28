@@ -1,78 +1,92 @@
-# Version 5.5 Patch Notes
+# Chess Ultimate – Version 5.6 Patch Notes
 
-## Gameplay
-- Added Local Play.
-- Added a Play Again button after matches.
-- You can now avoid specific players to prevent matching with them in queue.
-- If a tournament game is about to start while you are in a match, the current match will now be forfeited.
-- Ghosts and Jesters are now revealed on Game Over.
-- Changed draw and take back requests to appear at the top of the screen to prevent accidental accepts and reduce spam.
-- Added a tournament description.
-- The last tournament winner is now displayed in the Play menu.
+## Major Highlights
 
----
+### New Characters
+For the first time since launch, two brand new characters have been added to Chess Ultimate.
 
-## Tournaments
-- Tournament sign ups now open 10 minutes before the start time to improve participation.
-- Added a notification for weekly tournament start times.
-- Added a message at the top of the screen indicating when you are waiting for a tournament game to start.
-- Fixed an unnecessary delay after tournament games end.
+#### Dragon (16 Points)
+- Moves like a Bishop + Knight
+- Alternate colors added
+- New skin: Dragon Knight
+- New Dragon icon added
 
----
+#### Fisherman (8 Points)
+- Can pull enemy characters toward itself
+- New skin: Pooh Bear
 
-## UI and Menu
-- Menu fixes and improvements.
-- Increased the maximum number of characters allowed in the email address field.
-- Added ghost indicator count to the in game menu UI.
-- Updated ghost move indicators.
-- Made ghosts more transparent while invisible.
-- Fixed issue where switching back to the default pawn icon was not possible.
+These are the first new characters added since release.
 
 ---
 
-## Balance and Mechanics Fixes
-- Fixed Angel and Bomb interaction issues.
-- Fixed multiple Angel related bugs.
-- Fixed an issue where Giant and Copy Cat would not show knockout indicators correctly.
-- Fixed Giant surviving an explosion when Mage swapped it onto Bomb.
-- Fixed a Team Builder issue where Copy Cat and Giant could not be placed if you did not have enough points.
-- Fixed Copy Cat partner still considering a frozen host’s position when calculating available moves.
+### Checker Rework (Major Balance Update)
+Checkers have received a significant overhaul:
+
+- Point cost increased: 1 → 2
+- Forced attack now only triggers after an initial knockout that turn
+- Checker King movement increased: 1 → 8
 
 ---
 
-## Bug Fixes
-- Fixed session tokens not refreshing properly after 30 minutes.
-- Fixed spectator desync when a Ghost revealed itself.
-- Fixed pawn moving into an invisible Ghost causing a resync.
-- Fixed Parasite taking a pawn that upgrades to Queen causing the game to stall until a sanity check.
-- Fixed issue where banning the King was possible in Draft Mode.
-- Fixed issue where a pawn with an attached Angel near an enemy Ghost could softlock the game.
-- Fixed an issue with registering alternative accounts.
-- Fixed players being able to drop below Bronze V and appear as unranked.
-- Disabled the turn changer in the Jester tutorial to prevent a softlock.
+## Shop and Cosmetics
+- Alternate skins moved to the bottom of the shop menu
+- Fixed issues with setting skins
+- Fixed Copy Cat now showing other Copy Cats’ movement
+- All character key costs are now 1
 
 ---
 
-## Analytics and Performance
-- Added analytics tracking.
-- General optimizations and performance improvements.
+## Gameplay Fixes and Improvements
+
+### Combat and Abilities
+- Fixed multiple Ghost issues
+- Fixed Bomb exploding on game initialization
+- Fixed Bomb plus Angel plus Mage plus Giant interaction
+- Fixed Bomb vs Parasite square not clearing
+- Fixed Angel plus Ghost revealing bug
+- Rewrote large portions of Angel code
+- Fixed Parasite swap while frozen removing ice material
+- Fixed frozen pieces not unfreezing after resync or takeback
+
+### Local and Online Play
+- Fixed takeback in local games
+- Fixed local time reset issues
+- Fixed local team banner not closing
+- Fixed resync issues
+- Added new player queue
+- Updated new user tutorials
+
+### Draft and UI
+- Dragging a character onto enemy squares during draft now removes it
+- Changed board zoom colors
+- Changed square hover highlight color
+- Fixed glass tile shader
+- Fixed danger move indicators showing incorrectly
 
 ---
 
-## Cosmetics
-
-### New Bundles
-- Bowling Bundle
-
-### New Skins
-- Bowling Bomb  
-- Bowling Pawn  
-- Bowling Bomb (Red Variant)  
-- Bowling Bomb (Green Variant)  
-- Bowling Bomb (Blue Variant)  
-- Tournament Bowling Bomb Skin
+## System and Social Fixes
+- Improved translations
+- Fixed blocked users appearing incorrectly
+- Fixed tournament notifications
+- Fixed battle pass 100 gems animation
 
 ---
 
-## Miscellaneous
-- Removed expiry time from verification emails.
+## Economy Changes
+- Keys earned from winning matchmaking: 2 → 1
+- All character key costs now standardized to 1
+
+---
+
+## Additional Fixes
+- Fixed Copy Cat movement display
+- Fixed multiple UI and sync bugs
+- General stability and polish improvements
+
+---
+
+## Thanks
+Version 5.6 is one of the biggest updates yet, featuring the first new characters since launch and a major Checker overhaul. Thanks for playing and supporting Chess Ultimate.
+
+More updates coming soon.
