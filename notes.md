@@ -1,4 +1,4 @@
-# Chess Ultimate 5.6.2 – Hotfix Update
+# Chess Ultimate 5.62 – Hotfix Update
 
 This hotfix addresses several gameplay bugs and interaction issues introduced in 5.6.
 
