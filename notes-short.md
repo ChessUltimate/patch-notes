@@ -1,3 +1,20 @@
+# Chess Ultimate 5.6.2 – Hotfix Update
+
+This hotfix addresses several gameplay bugs and interaction issues introduced in 5.6.
+
+## Fixes
+
+- Fixed incorrect point values shown in the shop for characters
+- Fixed Angel becoming unusable when playing against Fisherman and Ghost
+- Fixed interaction issue with Giant, Fisherman, and Devil
+- Fixed Fisherman threat detection not calling check when pulling into checkmate
+- Fixed Bomb with Angel attached not exploding when attacked
+- Fixed issue when Fisherman pulled Bomb into Ghost
+- Fixed issue when Fisherman pulled Bomb with Angel into Ghost
+- Fixed Giant centering incorrectly after being pulled by Fisherman
+- Fixed Minion with Angel not returning properly to halo after reaching end of board
+- Fixed Checker not playing sound when landing
+
 # Chess Ultimate – Version 5.6 Patch Notes
 
 ## Major Highlights
