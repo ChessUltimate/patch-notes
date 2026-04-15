@@ -21,11 +21,9 @@ Fisherman can now move up to 3 squares in all directions.
 
 ### Value Changes
 
-| Piece | Old | New |
-|-------|-----|-----|
-| Fisherman | 8 | 12 |
-| Ninja | 22 | 20 |
-| Dragon | 16 | 15 |
+- Fisherman: 8 -> 12
+- Ninja: 22 -> 20
+- Dragon: 16 -> 15
 
 ---
 
