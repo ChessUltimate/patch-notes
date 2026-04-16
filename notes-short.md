@@ -1,109 +1,65 @@
-# Chess Ultimate 5.62 – Hotfix Update
-
-This hotfix addresses several gameplay bugs and interaction issues introduced in 5.6.
-
-## Fixes
-
-- Fixed incorrect point values shown in the shop for characters
-- Fixed Angel becoming unusable when playing against Fisherman and Ghost
-- Fixed interaction issue with Giant, Fisherman, and Devil
-- Fixed Fisherman threat detection not calling check when pulling into checkmate
-- Fixed Bomb with Angel attached not exploding when attacked
-- Fixed issue when Fisherman pulled Bomb into Ghost
-- Fixed issue when Fisherman pulled Bomb with Angel into Ghost
-- Fixed Giant centering incorrectly after being pulled by Fisherman
-- Fixed Minion with Angel not returning properly to halo after reaching end of board
-- Fixed Checker not playing sound when landing
-
-# Chess Ultimate – Version 5.6 Patch Notes
-
-## Major Highlights
-
-### New Characters
-For the first time since launch, two brand new characters have been added to Chess Ultimate.
-
-#### Dragon (16 Points)
-- Moves like a Bishop + Knight
-- Alternate colors added
-- New skin: Dragon Knight
-- New Dragon icon added
-
-#### Fisherman (8 Points)
-- Can pull enemy characters toward itself
-- New skin: Pooh Bear
-
-These are the first new characters added since release.
+# Patch 5.65
 
 ---
 
-### Checker Rework (Major Balance Update)
-Checkers have received a significant overhaul:
+## Cosmetics
 
-- Point cost increased: 1 → 2
-- Forced attack now only triggers after an initial knockout that turn
-- Checker King movement increased: 1 → 8
-
----
-
-## Shop and Cosmetics
-- Alternate skins moved to the bottom of the shop menu
-- Fixed issues with setting skins
-- Fixed Copy Cat now showing other Copy Cats’ movement
-- All character key costs are now 1
+- Added **Captain Fisherman** skin with alternate color variants
+- Added **Green & White** tile set
+- Added **Felt & Yarn** tile set
+- Added **Chocolate Bar** tile set
+- Added shadows to tiles
+- Darkened the Dragon Knight skin to better distinguish it from the standard Knight
 
 ---
 
-## Gameplay Fixes and Improvements
+## Balance
 
-### Combat and Abilities
-- Fixed multiple Ghost issues
-- Fixed Bomb exploding on game initialization
-- Fixed Bomb plus Angel plus Mage plus Giant interaction
-- Fixed Bomb vs Parasite square not clearing
-- Fixed Angel plus Ghost revealing bug
-- Rewrote large portions of Angel code
-- Fixed Parasite swap while frozen removing ice material
-- Fixed frozen pieces not unfreezing after resync or takeback
+### Fisherman Rework
 
-### Local and Online Play
-- Fixed takeback in local games
-- Fixed local time reset issues
-- Fixed local team banner not closing
-- Fixed resync issues
-- Added new player queue
-- Updated new user tutorials
+Fisherman can now move up to 3 squares in all directions.
 
-### Draft and UI
-- Dragging a character onto enemy squares during draft now removes it
-- Changed board zoom colors
-- Changed square hover highlight color
-- Fixed glass tile shader
-- Fixed danger move indicators showing incorrectly
+### Value Changes
+
+- Fisherman: 8 -> 12
+- Ninja: 22 -> 20
+- Dragon: 16 -> 15
 
 ---
 
-## System and Social Fixes
-- Improved translations
-- Fixed blocked users appearing incorrectly
-- Fixed tournament notifications
-- Fixed battle pass 100 gems animation
+## Bug Fixes
+
+### Gameplay
+
+- Fixed a bug where having a Jester with no legal moves and your King under attack would incorrectly declare checkmate
+- Fixed Checker not calling check on double moves
+- Fixed Fisherman pulling a King or Jester around Ghosts not revealing the Ghosts
+- Fixed a bug where swapping with a frozen Giant via Mage or Fisherman would leave the Giant frozen
+- Fixed multiple Angels on a Giant not interacting correctly
+- Fixed a Bomb with an Angel attacking a Goop incorrectly requiring 2 hits and removing the Angel
+- Fixed Minion, Mage, and Giant interaction
+- Fixed Angel and Halo interaction
+- Fixed the 50-move rule triggering at 25 moves instead of 50; it now also resets correctly when a Pawn or Checker is pushed
+- Fixed insufficient material draw rule
+- Fixed inaccurate Ghost grave counts
+- Fixed Quest 3 not reporting the correct number of knockouts
+
+### Audio & Visual
+
+- Fixed Garden Mage attack not playing its sound effect
+- Fixed scaling issues on characters
+- Fixed last move indicator not displaying correctly for enemy moves
+
+### Online
+
+- Fixed an issue where joining a full queue from the new player queue could match you into a second game and kill the current one
+- Various error message improvements
 
 ---
 
-## Economy Changes
-- Keys earned from winning matchmaking: 2 → 1
-- All character key costs now standardized to 1
+## Misc
 
----
-
-## Additional Fixes
-- Fixed Copy Cat movement display
-- Fixed multiple UI and sync bugs
-- General stability and polish improvements
-
----
-
-## Thanks
-Version 5.6 is one of the biggest updates yet, featuring the first new characters since launch and a major Checker overhaul. Thanks for playing and supporting Chess Ultimate.
-
-More updates coming soon.
+- Added password reset for alternate accounts
+- Disabled real-money purchase attempts on alternate accounts
+- Messages now open faster; on mobile, the input field shifts up with the keyboard on supported devices
+- Increased ranked ladder range from 5 to 25
