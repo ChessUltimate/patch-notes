@@ -1,3 +1,16 @@
+# Patch 5.652 — Hotfix
+
+---
+
+## Bug Fixes
+
+- Fixed camera getting locked after opening messages
+- Fixed board shadow rendering issues
+- Fixed Giant not remaining frozen when you have a Mage or Fisherman
+- Fixed knockout quest tracking incorrectly against Giants
+- Fixed tombstones not being placed during draft for Ghosts
+
+
 # Patch 5.65
 
 ---
