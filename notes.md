@@ -4,15 +4,15 @@
 
 ## New Features
 
-- **Puzzles** — A new puzzle mode has been added to the game
+- Puzzles have been added to the game
 
 ---
 
 ## Balance
 
-- **Ghost nerf** — When a moving piece enters a Ghost's square, both pieces are now knocked out instead of just the moving piece
-- **Fisherman buff** — Fisherman can now move like a Queen and can pull diagonally
-- **Bomb nerf** — Diagonal movement range reduced by 1
+- Ghost nerf — When a non-attacking move enters a Ghost's square, both pieces are now knocked out instead of just the moving piece
+- Fisherman buff — Fisherman can now move like a Queen and can pull diagonally
+- Bomb nerf — Diagonal movement range reduced by 1
 
 ---
 
@@ -34,8 +34,6 @@
 - Fixed a bug involving Giant, Bomb, and Angel interactions
 - Various menu fixes
 - Team Builder now correctly restores your selected tiles and environment when navigating to it
-
----
 
 # Patch 5.652 — Hotfix
 
