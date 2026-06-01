@@ -35,6 +35,8 @@
 - Various menu fixes
 - Team Builder now correctly restores your selected tiles and environment when navigating to it
 
+---
+
 # Patch 5.652 — Hotfix
 
 ---
@@ -47,6 +49,7 @@
 - Fixed knockout quest tracking incorrectly against Giants
 - Fixed tombstones not being placed during draft for Ghosts
 
+---
 
 # Patch 5.65
 
@@ -71,9 +74,9 @@ Fisherman can now move up to 3 squares in all directions.
 
 ### Value Changes
 
-- Fisherman: 8 -> 12
-- Ninja: 22 -> 20
-- Dragon: 16 -> 15
+- Fisherman: 8 → 12
+- Ninja: 22 → 20
+- Dragon: 16 → 15
 
 ---
 
@@ -114,11 +117,13 @@ Fisherman can now move up to 3 squares in all directions.
 - Messages now open faster; on mobile, the input field shifts up with the keyboard on supported devices
 - Increased ranked ladder range from 5 to 25
 
-# Chess Ultimate 5.62 – Hotfix Update
+---
 
-This hotfix addresses several gameplay bugs and interaction issues introduced in 5.6.
+# Version 5.62 — Hotfix
 
-## Fixes
+---
+
+## Bug Fixes
 
 - Fixed incorrect point values shown in the shop for characters
 - Fixed Angel becoming unusable when playing against Fisherman and Ghost
@@ -131,29 +136,31 @@ This hotfix addresses several gameplay bugs and interaction issues introduced in
 - Fixed Minion with Angel not returning properly to halo after reaching end of board
 - Fixed Checker not playing sound when landing
 
-# Chess Ultimate – Version 5.6 Patch Notes
+---
 
-## Major Highlights
+# Version 5.6
 
-### New Characters
-For the first time since launch, two brand new characters have been added to Chess Ultimate.
+---
 
-#### Dragon (16 Points)
+## New Characters
+
+Two brand new characters have been added to Chess Ultimate for the first time since launch.
+
+### Dragon (16 Points)
 - Moves like a Bishop + Knight
 - Alternate colors added
 - New skin: Dragon Knight
 - New Dragon icon added
 
-#### Fisherman (8 Points)
+### Fisherman (8 Points)
 - Can pull enemy characters toward itself
 - New skin: Pooh Bear
 
-These are the first new characters added since release.
-
 ---
 
-### Checker Rework (Major Balance Update)
-Checkers have received a significant overhaul:
+## Balance
+
+### Checker Rework
 
 - Point cost increased: 1 → 2
 - Forced attack now only triggers after an initial knockout that turn
@@ -161,17 +168,19 @@ Checkers have received a significant overhaul:
 
 ---
 
-## Shop and Cosmetics
+## Cosmetics
+
 - Alternate skins moved to the bottom of the shop menu
 - Fixed issues with setting skins
-- Fixed Copy Cat now showing other Copy Cats’ movement
+- Fixed Copy Cat now showing other Copy Cats' movement
 - All character key costs are now 1
 
 ---
 
-## Gameplay Fixes and Improvements
+## Bug Fixes
 
 ### Combat and Abilities
+
 - Fixed multiple Ghost issues
 - Fixed Bomb exploding on game initialization
 - Fixed Bomb plus Angel plus Mage plus Giant interaction
@@ -182,6 +191,7 @@ Checkers have received a significant overhaul:
 - Fixed frozen pieces not unfreezing after resync or takeback
 
 ### Local and Online Play
+
 - Fixed takeback in local games
 - Fixed local time reset issues
 - Fixed local team banner not closing
@@ -190,15 +200,15 @@ Checkers have received a significant overhaul:
 - Updated new user tutorials
 
 ### Draft and UI
+
 - Dragging a character onto enemy squares during draft now removes it
 - Changed board zoom colors
 - Changed square hover highlight color
 - Fixed glass tile shader
 - Fixed danger move indicators showing incorrectly
 
----
+### System and Social
 
-## System and Social Fixes
 - Improved translations
 - Fixed blocked users appearing incorrectly
 - Fixed tournament notifications
@@ -206,1034 +216,1194 @@ Checkers have received a significant overhaul:
 
 ---
 
-## Economy Changes
+## Economy
+
 - Keys earned from winning matchmaking: 2 → 1
 - All character key costs now standardized to 1
 
 ---
 
-## Additional Fixes
-- Fixed Copy Cat movement display
-- Fixed multiple UI and sync bugs
-- General stability and polish improvements
+# Version 5.5
 
 ---
 
-# Version 5.5 Patch Notes
-
 ## Gameplay
-- Added a Play Again button after matches.
-- You can now avoid specific players to prevent matching with them in queue.
-- If a tournament game is about to start while you are in a match, the current match will now be forfeited.
-- Ghosts and Jesters are now revealed on Game Over.
-- Changed draw and take back requests to appear at the top of the screen to prevent accidental accepts and reduce spam.
-- Added a tournament description.
-- The last tournament winner is now displayed in the Play menu.
+
+- Added a Play Again button after matches
+- You can now avoid specific players to prevent matching with them in queue
+- If a tournament game is about to start while you are in a match, the current match will now be forfeited
+- Ghosts and Jesters are now revealed on Game Over
+- Changed draw and take back requests to appear at the top of the screen to prevent accidental accepts and reduce spam
+- Added a tournament description
+- The last tournament winner is now displayed in the Play menu
 
 ---
 
 ## Tournaments
-- Tournament sign ups now open 10 minutes before the start time to improve participation.
-- Added a notification for weekly tournament start times.
-- Added a message at the top of the screen indicating when you are waiting for a tournament game to start.
-- Fixed an unnecessary delay after tournament games end.
+
+- Tournament sign ups now open 10 minutes before the start time to improve participation
+- Added a notification for weekly tournament start times
+- Added a message at the top of the screen indicating when you are waiting for a tournament game to start
+- Fixed an unnecessary delay after tournament games end
 
 ---
 
-## UI and Menu
-- Menu fixes and improvements.
-- Increased the maximum number of characters allowed in the email address field.
-- Added ghost indicator count to the in game menu UI.
-- Updated ghost move indicators.
-- Made ghosts more transparent while invisible.
-- Fixed issue where switching back to the default pawn icon was not possible.
+## UI
+
+- Menu fixes and improvements
+- Increased the maximum number of characters allowed in the email address field
+- Added ghost indicator count to the in-game menu UI
+- Updated ghost move indicators
+- Made ghosts more transparent while invisible
+- Fixed issue where switching back to the default pawn icon was not possible
 
 ---
 
-## Balance and Mechanics Fixes
-- Fixed Angel and Bomb interaction issues.
-- Fixed multiple Angel related bugs.
-- Fixed an issue where Giant and Copy Cat would not show knockout indicators correctly.
-- Fixed Giant surviving an explosion when Mage swapped it onto Bomb.
-- Fixed a Team Builder issue where Copy Cat and Giant could not be placed if you did not have enough points.
-- Fixed Copy Cat partner still considering a frozen host’s position when calculating available moves.
+## Balance
+
+- Fixed Angel and Bomb interaction issues
+- Fixed multiple Angel related bugs
+- Fixed an issue where Giant and Copy Cat would not show knockout indicators correctly
+- Fixed Giant surviving an explosion when Mage swapped it onto Bomb
+- Fixed a Team Builder issue where Copy Cat and Giant could not be placed if you did not have enough points
+- Fixed Copy Cat partner still considering a frozen host's position when calculating available moves
 
 ---
 
 ## Bug Fixes
-- Fixed session tokens not refreshing properly after 30 minutes.
-- Fixed spectator desync when a Ghost revealed itself.
-- Fixed pawn moving into an invisible Ghost causing a resync.
-- Fixed Parasite taking a pawn that upgrades to Queen causing the game to stall until a sanity check.
-- Fixed issue where banning the King was possible in Draft Mode.
-- Fixed issue where a pawn with an attached Angel near an enemy Ghost could softlock the game.
-- Fixed an issue with registering alternative accounts.
-- Fixed players being able to drop below Bronze V and appear as unranked.
-- Disabled the turn changer in the Jester tutorial to prevent a softlock.
 
----
-
-## Analytics and Performance
-- Added analytics tracking.
-- General optimizations and performance improvements.
+- Fixed session tokens not refreshing properly after 30 minutes
+- Fixed spectator desync when a Ghost revealed itself
+- Fixed pawn moving into an invisible Ghost causing a resync
+- Fixed Parasite taking a pawn that upgrades to Queen causing the game to stall until a sanity check
+- Fixed issue where banning the King was possible in Draft Mode
+- Fixed issue where a pawn with an attached Angel near an enemy Ghost could softlock the game
+- Fixed an issue with registering alternative accounts
+- Fixed players being able to drop below Bronze V and appear as unranked
+- Disabled the turn changer in the Jester tutorial to prevent a softlock
 
 ---
 
 ## Cosmetics
 
 ### New Bundles
+
 - Bowling Bundle
 
 ### New Skins
-- Bowling Bomb  
-- Bowling Pawn  
-- Bowling Bomb (Red Variant)  
-- Bowling Bomb (Green Variant)  
-- Bowling Bomb (Blue Variant)  
+
+- Bowling Bomb
+- Bowling Pawn
+- Bowling Bomb (Red Variant)
+- Bowling Bomb (Green Variant)
+- Bowling Bomb (Blue Variant)
 - Tournament Bowling Bomb Skin
 
 ---
 
-## Miscellaneous
-- Removed expiry time from verification emails.
+## Misc
 
+- Added analytics tracking
+- General optimizations and performance improvements
+- Removed expiry time from verification emails
 
-# Version 5.4 Patch Notes (November 24 2025)
+---
+
+# Version 5.4
+
+---
 
 ## Gameplay
-- Matchmade games now randomize Player 1 and Player 2.
-- Added threefold repetition draws.
-- Added a Ban button to the bottom-left of character details in Draft Mode to make banning easier.
+
+- Matchmade games now randomize Player 1 and Player 2
+- Added threefold repetition draws
+- Added a Ban button to the bottom-left of character details in Draft Mode to make banning easier
 
 ---
 
-## Balance Changes
-- Ninja: Points 25 → 22  
-- Bomb: Points 18 → 20
+## Balance
+
+### Point Changes
+
+- Ninja: 25 → 22
+- Bomb: 18 → 20
 
 ---
 
-## New Cosmetics
+## Cosmetics
 
-### Skin Variants
-- Skin variants are now available.
+### New Bundles
 
-### Bundles
-- Cosmic Mage Bundle  
+- Cosmic Mage Bundle
 - Dog Pack
 
 ### New Skins
-- Garden Gnome Mage  
-- Cosmic Mage  
-- Cosmic Mage (Red Variant)  
-- Cosmic Mage (Blue Variant)  
-- iwantcheckmage (Cosmic Mage Variant)  
-- Pug Bishop  
-- St. Bernard Bishop  
-- Corgi Bishop  
-- Dalmatian Bishop  
-- Golden Retriever Bishop  
+
+- Garden Gnome Mage
+- Cosmic Mage
+- Cosmic Mage (Red Variant)
+- Cosmic Mage (Blue Variant)
+- iwantcheckmage (Cosmic Mage Variant)
+- Pug Bishop
+- St. Bernard Bishop
+- Corgi Bishop
+- Dalmatian Bishop
+- Golden Retriever Bishop
 - German Shepherd Bishop
+
+### Skin Variants
+
+- Skin variants are now available
 
 ---
 
-## Miscellaneous
-- Added two new gem tiers: 5000 and 10000.
+## Misc
+
+- Added two new gem tiers: 5000 and 10000
 
 ---
 
 ## Bug Fixes
-- Fixed draw games showing incorrect rank point gains on the Game Over screen.  
-- Fixed Draft King not defaulting to the selected skin.  
-- Fixed issue with dragging characters in Team Builder.  
-- Fixed exploit allowing ranked players to exceed 100 points.  
-- Fixed Bomb + Angel halo interaction.  
-- Fixed Bomb + Angel vs. Copy Cat bug.  
-- Fixed Bomb not knocking out Giant.  
-- Fixed Bomb teleporting when Angel attached against Parasite.  
-- Fixed Penguin sometimes not freezing when Mage was on the team.  
-- Fixed Bomb + Bomb + Angel vs. Giant.  
-- Fixed Parasite + Jester issue that prevented moves after the acquired piece was knocked out.  
-- Fixed Minion causing Bomb (with Angel attached) to teleport.  
-- Fixed Sniper shooting into a target with Angel attached when multiple Angels were on board causing issues.  
-- Fixed Mage-swapped characters not being freezable by Penguins.  
-- Fixed Draft Lock-In button sometimes not appearing or not clickable.  
-- Full timer now gives a warning when below 10 seconds.  
-- Fixed issue where switching from the game menu with under 60 seconds remaining hid the turn timer.  
-- Fixed crash when opening Messages tab right after a game ended.  
-- Fixed multi-move characters (Prince or Checker) subtracting time from the opponent’s timer, allowing it to go negative and break the game.
 
+- Fixed draw games showing incorrect rank point gains on the Game Over screen
+- Fixed Draft King not defaulting to the selected skin
+- Fixed issue with dragging characters in Team Builder
+- Fixed exploit allowing ranked players to exceed 100 points
+- Fixed Bomb + Angel halo interaction
+- Fixed Bomb + Angel vs. Copy Cat bug
+- Fixed Bomb not knocking out Giant
+- Fixed Bomb teleporting when Angel attached against Parasite
+- Fixed Penguin sometimes not freezing when Mage was on the team
+- Fixed Bomb + Bomb + Angel vs. Giant
+- Fixed Parasite + Jester issue that prevented moves after the acquired piece was knocked out
+- Fixed Minion causing Bomb (with Angel attached) to teleport
+- Fixed Sniper shooting into a target with Angel attached when multiple Angels were on board causing issues
+- Fixed Mage-swapped characters not being freezable by Penguins
+- Fixed Draft Lock-In button sometimes not appearing or not clickable
+- Full timer now gives a warning when below 10 seconds
+- Fixed issue where switching from the game menu with under 60 seconds remaining hid the turn timer
+- Fixed crash when opening Messages tab right after a game ended
+- Fixed multi-move characters (Prince or Checker) subtracting time from the opponent's timer, allowing it to go negative and break the game
 
-Version 5.29 - (October 05 2025)
+---
 
---Balance Change--
+# Version 5.29
 
--Sniper no longer starts sleeping. (changed due to first turn stalemates)
+---
 
--Point Changes-
+## Balance
 
--Angel 15->13
+### Sniper
 
--Sniper 15->17
+- Sniper no longer starts sleeping (changed due to first turn stalemates)
 
--Bug Fixes-
+### Point Changes
 
--In draft mode the minimum point usage on 3rd pick phase is now 0.
+- Angel: 15 → 13
+- Sniper: 15 → 17
 
--Parasite/Angel interaction.
+---
 
--Checker/Bomb causing random knock out victories.
+## Bug Fixes
 
--Prince/Angel interaction.
+- In Draft Mode the minimum point usage on 3rd pick phase is now 0
+- Fixed Parasite/Angel interaction
+- Fixed Checker/Bomb causing random knockout victories
+- Fixed Prince/Angel interaction
 
-Version 5.28 - (October 01 2025)
+---
 
--Added turn timer.
+# Version 5.28
 
--In draft pick player 2's second pick phase minimum points to use is 40.
+---
 
--Tournament moved from 1pm EST to 4pm EST Saturday.
+## Gameplay
 
--You can now sign up for the tournament 1 minute before it starts instead of 30 minutes.
+- Added turn timer
+- In Draft Pick, Player 2's second pick phase minimum points to use is 40
+- Tournament moved from 1pm EST to 4pm EST Saturday
+- You can now sign up for the tournament 1 minute before it starts instead of 30 minutes
 
---Bug Fixes--
+---
 
--Sludge hot fix.
+## Balance
 
--Added self healing to the tournament ladder if a game breaks itll restart it within 2 minutes.
+### Point Changes
 
---Balance Change--
+- Angel: 20 → 15
 
--Point Changes-
+---
 
--Angel 20->15
+## Bug Fixes
 
-Version 5.27 - (September 29 2025)
+- Sludge hotfix
+- Added self-healing to the tournament ladder — if a game breaks it will restart within 2 minutes
 
--Sludge/Ghost interaction fix.
+---
 
--Mage/Giant interaction fix.
+# Version 5.27
 
--Mage/Giant/Parasite interaction fix.
+---
 
--Giant/Angel interaction fix.
+## Bug Fixes
 
-Version 5.26 - (September 27 2025)
+- Fixed Sludge/Ghost interaction
+- Fixed Mage/Giant interaction
+- Fixed Mage/Giant/Parasite interaction
+- Fixed Giant/Angel interaction
 
--Timer changed to 5:5.
+---
 
--Sludge goop now spawn on your own team.
+# Version 5.26
 
--Angel hot fix.
+---
 
--Bomb hot fix.
+## Gameplay
 
--Ghost hot fix.
+- Timer changed to 5:5
+- Sludge goop now spawns on your own team
 
-Version 5.21 - (September 25 2025)
+---
 
--Match made games are now 10 minutes each time mode.
+## Bug Fixes
 
--Sleep now last 2 turns instead of 3 for clarity purposes.
+- Angel hotfix
+- Bomb hotfix
+- Ghost hotfix
 
--Added more descriptions and a visual representation for characters moves.
+---
 
--Steam prices are always in USD now.
+# Version 5.21
 
--Added busy toggle to hide game invites.
+---
 
--Added alternative login method
+## Gameplay
 
---Bug Fixes--
+- Matchmade games are now 10 minutes each time mode
+- Sleep now lasts 2 turns instead of 3 for clarity purposes
+- Added more descriptions and a visual representation for character moves
+- Steam prices are always in USD now
+- Added busy toggle to hide game invites
+- Added alternative login method
 
--Prince bug when taking back the game only lets you move the Prince.
+---
 
--Multiple Penguin freeze bugs.
+## Balance
 
--Bomb/Minion interaction.
+### Point Changes
 
--Double ban bug where you were able to ban the same character more than once.
+- Turtle: 3 → 4
+- CopyCat: 3 → 5
+- Knight: 5 → 6
+- Bishop: 8 → 9
+- Sniper: 13 → 15
+- Ninja: 30 → 25
+- Angel: 40 → 20
 
--Fixed bug where after a take back or reconnect a visible ghost would go invisible.
+### Angel Rework
 
--Fixed timer issues.
+Angel now spawns a Halo that serves as a recall point when the attached character gets knocked out. The Angel no longer retaliates attacks.
 
---Balance Change--
+### Sniper
 
--Point Changes-
+- Sniper now starts sleeping
 
--Turtle 3->4
+---
 
--CopyCat 3->5
+## Bug Fixes
 
--Knight 5->6
+- Fixed Prince bug where taking back the game only lets you move the Prince
+- Fixed multiple Penguin freeze bugs
+- Fixed Bomb/Minion interaction
+- Fixed double ban bug where you were able to ban the same character more than once
+- Fixed bug where after a takeback or reconnect a visible ghost would go invisible
+- Fixed timer issues
 
--Bishop 8->9
+---
 
--Sniper 13->15
+# Version 5.1
 
--Ninja 30->25
+---
 
--Angel 40->20
+## Gameplay
 
--Sniper now starts sleeping.
+- Changed time modes for Draft Pick to be 1 minute per turn until game starts
+- Can now withdraw from the tournament
 
--Angel rework.  Angel now spawns a Halo that serves a recall point when the attached character gets knocked out.  The Angel no longer retaliates attacks.
+---
 
----Version 5.1 - (August 22 2025)---
+## Bug Fixes
 
--Changed time modes for draft pick to be 1 minute per turn until game starts.
+- Fixed spectating issues
+- Added a way to rejoin a tournament game if not prompted on login via the tournament ladder
+- Menu fixes
 
--Can now withdraw from the tournament.
+---
 
---Bug fixes--
+# Version 5.0
 
--Spectating issues.
+---
 
--Added a way to rejoin a tournament game if not prompted on login via the tournament ladder.
+## Gameplay
 
--Menu fixes.
+- Weekly Tournaments will now be held in game every Saturday
+- Custom rules added to friendly and vs CPU games
+- Added ally outline
+- Changed character descriptions to be more concise
+- You can now view your standing in the rank ladder
 
----Version 5.0 - (August 13 2025)---
+---
 
--Weekly Tournaments will now be held in game every Saturday.
+## Balance
 
--Custom rules added to friendly and vs Cpu games.
+### Point Changes
 
--Added ally outline.
+- Bomb: 20 → 18
+- Devil: 16 → 15
 
--Changed character descriptions to be more concise.
+---
 
--You can now view your standing in the rank ladder.
+## Cosmetics
 
---Balance--
+- Tournament Pawn
+- Tournament Checker
+- Tournament Berserker
+- Tournament Penguin
+- Tournament Sniper
 
--Bomb point cost 20->18.
+---
 
--Devil point cost 16->15.
+## Bug Fixes
 
---Skins--
+- Menu fixes
 
--Tournament Pawn.
+---
 
--Tournament Checker.
+# Version 4.92
 
--Tournament Berserker.
+---
 
--Tournament Penguin.
+## Gameplay
 
--Tournament Sniper.
+- Added automatic reconnect
 
---Bug Fixes--
+---
 
--Menu fixes.
+## Bug Fixes
 
----Version 4.92 - (June 28 2025)---
+- Fixed Angel/Giant interaction
+- Fixed Angel/Pawn interaction
+- Fixed Freeze/Minion interaction
+- Fixed bot issues
+- UI fixes
 
--Added automatic reconnect.
+---
 
---Bug Fixes--
+# Version 4.9
 
--Angel/Giant interaction.
+---
 
--UI fixes.
+## Battle Pass
 
--Angel/Pawn interaction.
+- Added free items
+- You now get a 30% exp boost when you buy the battle pass
 
--Freeze/Minion Interaction.
+### New Icons
 
--Fixed bot issues.
+- Crying Cloud Icon
+- Referee Icon
+- Fishing Bear Icon
 
----Version 4.9 - (June 11 2025)---
+### New Emotes
 
---Battle Pass Update--
+- Thinking Emote
+- Angry Emote
 
--Added free items.
+### New Skins
 
--You now get a 30% exp boost when you buy the battle pass.
+- Donut Checker
+- Potion Bomb
+- Bookworm Parasite
+- Grey Mage
+- Pixel Pawn
+- Body Guard Turtle
+- Slime Sludge
+- NecroMancer Devil
 
--Added icons-
+---
 
--Crying Cloud Icon.
+## UI
 
--Referee Icon.
+- All shop related menus have changed and are easier to navigate and equip your skins
 
--Fishing Bear Icon.
+---
 
--Added Emotes-
+## Optimization
 
--Thinking Emote.
+- Ice material changed to improve performance
 
--Angry Emote.
+---
 
--Added Skins-
+## Ranked
 
--Donut Checker.
+- Updated ranked skins
 
--Potion Bomb.
+---
 
--Bookworm Parasite.
+## Bug Fixes
 
--Grey Mage.
+- Fixed Checker bot issue
+- Fixed Copy Cat bot issue
+- Fixed Penguin tutorial
+- Fixed Sniper tutorial
+- Fixed Bomb/Bomb/Angel interaction
+- Fixed Checker/Giant interaction
+- Fixed Parasite/Goop interaction
+- Fixed Parasite/Angel interaction
+- Fixed Minion/Angel interaction
+- Fixed Angel/Angel/Copy Cat interaction
+- Fixed Angel/Giant interaction
 
--Pixel Pawn.
+---
 
--Body Guard Turtle.
+# Version 4.89
 
--Slime Sludge.
+---
 
--NecroMancer Devil.
+## Gameplay
 
---UI Changes--
+- Ranking calculation change
+- In Draft Mode the game will auto send draft or make a ban for you if time is running out
 
--All shop related menus have changed and are easier to navigate and equipped your skins.
+---
 
---Opimization--
+## Bug Fixes
 
--Ice material changed to improve performance.
+- Fixed Mage/Penguin interactions
+- Fixed Sniper/Ghost interaction
+- Fixed Checker/Goop interaction
+- Fixed Parasite/Jester interaction
+- Fixed Parasite/Angel/King interaction
+- Fixed Penguin/Devil interaction
+- Fixed Ghost/Checker interaction
+- Fixed timer issues
+- Fixed Penguin not being able to move after Draft Pick
+- Fixed environment and tiles resetting after games
+- Fixed frozen Copy Cat in replay
+- Fixed Ninja movement
 
---Updated Ranked Skins--
+---
 
---Bug Fixes--
+# Version 4.89 — Server Hotfix
 
--Checker bot issue.
+---
 
--Copy cat bot issue.
+## Bug Fixes
 
--Penguin tutorial.
+- Patched duplication bug
+- Fixed some checkmates not being recorded if the enemy had a Jester
+- Fixed ability to spectate while in queue without potential conflict
+- Fixed adding friend issue
+- Fixed game chat issue
 
--Sniper tutorial.
+---
 
--Bomb/Bomb/Angel interaction.
+# Version 4.88
 
--Checker/Giant interaction.
+---
 
--Parasite/Goop interaction.
+## Balance
 
--Parasite/Angel interaction.
+- You can now move through your own Ghost
+- Sniper can no longer shoot their own team
 
--Minion/Angel interaction.
+---
 
--Angel/Angel/copy cat interaction.
+## Bug Fixes
 
--Angel/Giant interaction.
+- Fixed random disconnects from the server
+- Fixed Jester bug
+- Fixed Parasite bug
+- Fixed Penguin bugs
+- Fixed Mage/Minion interaction
+- Bot can no longer move into check
+- Bot King knockouts are now accounted for
+- Fixed Bomb/Angel — if Angel is attached to Bomb and Bomb attacks, it will still blow up
+- Fixed Sludge getting knocked to Ghost when moving through it; the goop should knock the Ghost instead
+- Fixed Mage/Penguin interaction
+- Fixed square notation letters not rotating when you are Player 2
 
--Sniper/Ghost interaction.
+---
 
----Version 4.89 - (May 18 2025)---
+# Version 4.87
 
--Ranking calculation change.
+---
 
--In draft mode the game will auto send draft or make a ban for you if time is running out. (I will tackle the UI glitches next update)
+## Bug Report Feature
 
---Bug fixes--
+- You can now send a replay and description to help report bugs
 
--Mage/Penguin interactions.
+---
 
--Sniper/Ghost interaction.
+## Translations
 
--Checker/Goop interaction.
+- Language translations are now more accurate
 
--Parasite/Jester interaction.
+---
 
--Parasite/Angel/King interaction.
+## Bug Fixes
 
--Penguin/Devil interaction.
+- Fixed Copy Cat bug
+- Fixed Sniper bullet visual bug
+- Fixed King little pawns visual bug
+- Fixed Angel/Angel interaction
+- Fixed Giant going through ground at high unit speed
+- Fixed being unable to lock in a pick after opening a menu during Draft Pick phase
+- Fixed Sludge causing a resync at high FPS and unit speed
 
--Ghost/Checker interaction.
+---
 
--Timer issues.
+# Version 4.862
 
--Fixed Penguin not being able to move after draft pick.
+---
 
--Environment and tiles were resetting after games.
+## Bug Fixes
 
--Frozen Copy Cat in replay.
+- Fixed issue with messages writing lines backwards; numbers and symbols were writing incorrectly
 
--Ninja movement.
+---
 
-SERVER HOT FIXES (May 13 2025)
+# Version 4.861
 
---Bug Fixes--
+---
 
--Duplication bug patched.
+## Bug Fixes
 
--Some checkmates weren't recorded if the enemy had a Jester.
+- Fixed Penguin/Giant interaction where Giant was indefinitely frozen
+- Fixed Penguin takeback not unfreezing characters if it had moved once
 
--Can now spectate while in queue without potential conflict.
+---
 
--Adding friend issue.
+# Version 4.86
 
--Game Chat issue.
+---
 
----Version 4.88 - (May 06 2025)---
+## Gameplay
 
---Balance--
+- Added creator code functionality — if you're a content creator and want a code, reach out via Discord
+- Added Discord button on main menu
+- Added a way to set your default camera view (Settings → Visual → Default View)
 
--You can now move through your own ghost!
+---
 
--Sniper can't shoot their own team anymore.
+## Bug Fixes
 
---Bug Fixes--
+- Menu fixes
 
--Random disconnects from the server.
+---
 
--Jester bug.
+# Version 4.852
 
--Parasite bug.
+---
 
--Penguin bugs.
+## Bug Fixes
 
--Mage/Minion interaction.
+- Visual fixes
+- Menu fixes
+- Fixed resync issue with characters on cooldown
 
--Bot can no longer move into check.
+---
 
--Bot King knock outs are now accounted for.
+# Version 4.85
 
--Bomb/Angel if angel is attached to bomb and bomb attacks it'll blow up still.
+---
 
--Sludge shouldn't get knocked to ghost when moving through it. The goop should knock the ghost. (still gets knocked out when moving into a ghost)
+## Bug Fixes
 
--Mage/Penguin interaction.
+- Visual fixes
+- Menu fixes
+- Added missing translations
 
--Square notation letters didn't get rotated when you are player 2.
+---
 
----Version 4.87 - (April 25 2025)---
+# Version 4.84
 
---Bug Report Feature Added--
+---
 
--You can now send me a replay and description of the replay to help squash those bugs.
+## Bug Fixes
 
---UPDATED TRANSLATIONS--
+- Visual fixes
+- Menu fixes
 
--The language translations should be more accurate now.
+---
 
---Bug Fixes--
+# Version 4.83
 
--Copy Cat bug.
+---
 
--Sniper bullet visual bug.
+## Visual Update
 
--King little pawns visual bug.
+- Visual update
 
--Angel/Angel interaction.
+---
 
--Giant world go through ground at high unit speed.
+## Bug Fixes
 
--After opening a menu in draft pick phase you couldn't lock in your pick.
+- Fixed game queue bug
+- Fixed camera pivot not moving to board when accepting game queue/invite while looking at an item preview
+- Menu fixes
 
--Sludge would cause a resync at high fps and unit speed.
+---
 
----Version 4.862 - (April 12 2025)---
+# Version 4.82
 
---Bug Fix--
+---
 
--Issue with messages writing lines backwards numbers and symbols writing incorrectly.
+## Balance
 
----Version 4.861 - (April 11 2025)---
+### Point Changes
 
---Bug Fixes--
+- Giant: 5 → 1 (buff)
+- Pawn: 2 → 3 (nerf)
+- Copy Cat: 2 → 3 (nerf)
+- Turtle: 2 → 3 (nerf)
 
--Penguin/Giant interaction giant was indefinitely frozen.
+---
 
--Penguin take back wouldn't unfreeze characters if it moved once.
+## Bug Fixes
 
----Version 4.86 - (April 08 2025)---
+- Fixed bot games not rewarding you if you were in queue
+- Menu fixes
 
--Added creator code functionality.  (If you're a content creator and want a code let me know via discord!)
+---
 
--Added discord button on main menu.
+# Version 4.811
 
--Added a way to set your default camera view. (Settings -> Visual -> Default View)
+---
 
---Bug Fixes--
+## Bug Fixes
 
--Menu fixes.
+- Hotfix replay menu fix
 
-Version 4.852 - (March 31 2025)
+---
 
---Bug Fixes--
+# Version 4.81
 
--Visual fixes.
+---
 
--Menu fixes.
+## Bug Fixes
 
--Resync issue with characters on cooldown.
+- UI fixes
+- Fixed Penguin description
+- Fixed Penguin/Checker interaction
+- Visual fixes
 
----Version 4.85 - (March 27 2025)---
+---
 
---Bug Fixes--
+# Version 4.8
 
--Visual fixes.
+---
 
--Menu fixes.
+## Balance
 
--Added missing translations.
+- Penguin nerf
 
----Version 4.84 - (March 25 2025)---
+---
 
---Bug Fixes--
+## Bug Fixes
 
--Visual fixes.
+- Fixed Black Pawn skin
+- Fixed Red Checker skin
+- Bot fixes
+- Gameplay fixes
+- UI fixes
 
--Menu fixes.
+---
 
----Version 4.83 - (March 18 2025)---
+# Version 4.79
 
---Visual Update--
+---
 
---Bug Fixes--
+## UI
 
--Game queue bug.
+- Changed color of square indicator
 
--Camera pivot didn't move to board when accepting game queue/invite and looking at an item preview.
+---
 
--Menu fixes.
+## Bug Fixes
 
----Version 4.82 - (Feb 19 2025)---
+- Fixed quests progress not showing properly on game over menu
+- Fixed castling
+- Fixed cooldown tracking display
+- Fixed Checker forced move display
+- Fixed Tornado blinking for one frame
 
---Balance Change--
+---
 
--Buffed Giant point cost changed from 5 -> 1.
+# Version 4.78
 
--Nerfed Pawn point cost changed from 2 -> 3.
+---
 
--Nerfed Copy Cat point cost changed from 2 -> 3.
+## Bug Fixes
 
--Nerfed Turtle point cost changed from 2 -> 3.
+- Fixed emote list going off screen on mobile when you had too many emotes
+- Fixed emote button blocking the lock-in button on mobile in Draft Pick; moved and resized the lock-in button
+- Fixed Penguin/Checker interaction
+- Fixed Penguin bugs
+- Fixed trying to start a replay from match history not working
+- Fixed Penguin/Ghost interaction
 
---Bug Fixes--
+---
 
--Bot games wouldn't reward you if you were in queue.
+# Version 4.77
 
--Menu fixes.
+---
 
----Version 4.811 - (Feb 01 2025)---
+## UI
 
---Bug Fixes--
+- Increased emote resolution for PC
 
--Hotfix replay menu fix.
+---
 
----Version 4.81 - (Jan 31 2025)---
+## Bug Fixes
 
---Bug Fixes--
+- Fixed being unable to watch bot replays
+- Fixed CopyCat/Penguin interaction
+- Fixed being unable to play against certain bot levels
+- Fixed not receiving battle pass exp for bot games
+- Fixed unlink account
 
--UI fixes.
+---
 
--Fixed Penguin description.
+# Version 4.76
 
--Penguin/Checker interaction.
+---
 
--Visual fixes.
+## UI
 
----Version 4.8 - (Jan 31 2025)---
+- Added a tooltip for players trying to play ranked for the first time
+- Added more translations for supported languages
 
--Penguin nerf.
+---
 
---Bug Fixes--
+## Bug Fixes
 
--Black Pawn skin fixed.
+- Fixed Minion not getting the frozen material when frozen
+- Fixed Penguin bugs
+- Menu fixes
 
--Red Checker skin fixed.
+---
 
--Bot fixes.
+# Version 4.75
 
--Gameplay fixes.
+---
 
--UI fixes.
+## UI
 
----Version 4.79 - (Jan 10 2025)---
+- Menu size changes
 
--Changed color of square indicator.
+---
 
---Bug Fixes--
+## Bug Fixes
 
--Quests progress didn't show properly on game over menu.
+- Fixed Penguin bugs
+- Fixed Penguin/Sludge — Sludge went invisible
+- Fixed Penguin/Checker interaction
+- Menu fixes
+- Fixed turn indicator
+- Fixed disconnect login not letting you log back in
+- Fixed account linking
 
--Castling fix.
+---
 
--Cooldown tracking display fixed.
+# Version 4.74
 
--Checker forced move display fixed.
+---
 
--Tornado blinked for one frame.
+## Gameplay
 
----Version 4.78 - (Jan 10 2025)---
+- Freeze character rework (now named Penguin)
+- Added more turn indicators
+- Added transaction history
 
---Bug Fixes--
+---
 
--On mobile if you had too many emotes the list of emotes would go off screen in game.
+## Bug Fixes
 
--On mobile in draft pick mode the emote button blocked the lock-in button and i've moved and resized the lock-in button.
+- Menu fixes
+- Fixed bug where clearing the board and pressing ready in a blind friendly match would give an error
+- Fixed Copy Cat partner not setting color properly
+- Tutorial fixes
 
--Penguin/Checker interaction.
+---
 
--Penguin bugs.
+# Version 4.73
 
--Trying to start a replay from match history didn't work.
+---
 
--Penguin/Ghost interaction.
+## UI
 
----Version 4.77 - (Jan 07 2025)---
+- Updated rank border art
+- Added seasonal ranked rewards
 
--Increased emote resolution for PC.
+---
 
---Bug Fixes--
+## Bug Fixes
 
--Fixed unable to watch bot replays.
+- Menu fixes
 
--CopyCat/Penguin interaction.
+---
 
--Not able to play against certain bot levels.
+# Version 4.721
 
--Not receiveing battle pass exp for bot games.
+---
 
--Fixed unlink account.
+## Bug Fixes
 
----Version 4.76 - (Jan 06 2025)---
+- Fixed Turtle bug
+- Menu fixes
 
--Added a tooltip for people who are trying to play ranked for the first time.
+---
 
--More translations added for supported languages.
+# Version 4.72
 
---Bug Fixes--
+---
 
--Minion didn't get the frozen material when frozen.
+## Gameplay
 
--Menu fixes.
+- Everyone gets the thumbs up emote for free
+- Bot improvements
+- Can only send 3 emotes per turn now
 
--Penugin fixes.
+---
 
----Version 4.75 - (Jan 05 2025)---
+## Bug Fixes
 
--Menu size changes.
+- Removed text from emotes
+- Fixed daily bonus not resetting
+- Menu fixes
 
---Bug Fixes--
+---
 
--Penguin fixes.
+# Version 4.711
 
--Penguin/Sludge sludge went invisible.
+---
 
--Penguin/Checker interaction.
+## Gameplay
 
--Menu fixes.
+- You can now be in Check, Checkmate, and Stalemate on the first move
 
--Turn indicator fix.
+---
 
--Disconnect login wouldn't let you log back in.
+## Bug Fixes
 
--Fixed account linking.
+- Menu fixes
 
----Version 4.74 - (Dec 29 2024)---
+---
 
--Freeze character rework (Now named Penguin).
+# Version 4.71
 
--Added more turn indicators.
+---
 
--Added transaction history.
+## Gameplay
 
---Bug Fixes--
+- Added profanity filter
+- Added game chat
 
--More menu fixes.
+---
 
--Fixed bug where when making a team in blind game friendly match and clearing board pressing ready will give an error.
+## Bug Fixes
 
--Copy Cat partner wasn't setting color properly.
+- Many menu bugs since last update
 
--Tutorial fixes.
+---
 
----Version 4.73 - (Dec 18 2024)---
+# Version 4.7
 
--Updated rank border art.
+---
 
--Added seasonal ranked rewards.
+## Gameplay
 
---Bug Fixes--
+- Friendly invites have been improved
+- Minions now only show their movement indicator before they are about to move
 
--More menu fixes.
+---
 
----Version 4.721 - (Dec 09 2024)---
+## UI
 
---Bug Fixes--
+- Menu updates
 
--Turtle fix.
+---
 
--More menu fixes.
+## Bug Fixes
 
----Version 4.72 - (Dec 08 2024)---
+- Fixed daily bonus issue
+- Fixed mobile version check issue
+- Menu fixes
 
--Everyone gets the the thumbs up emote for free!
+---
 
--Bot improvements.
+# Version 4.69
 
--Can only send 3 emotes per turn now.
+---
 
---Bug Fixes--
+## UI
 
--Removed text from emotes.
+- Visual update for the Rubber Duck Freeze skin
 
--Daily bonus wasn't resetting.
+---
 
--More menu fixes.
+## Bug Fixes
 
----Version 4.711 - (Dec 06 2024)---
+- Fixed Ghost not revealing when moving into range of King/Jester
+- Fixed Sludge/Goop being broken
+- Fixed the commit draft button showing during Draft Pick before meeting the minimum point threshold
 
--You can now be in Check, Checkmate and Stalemate on the first move.
+---
 
---Bug Fixes--
+# Version 4.681 — Hotfix
 
--More menu fixes
+---
 
----Version 4.71 - (Dec 06 2024)---
+## Bug Fixes
 
--Profanity filter.
+- Fixed game invites not working since last update
 
--Game chat added.
+---
 
---Bug Fixes--
+# Version 4.68
 
--Many menu bugs since last update.
+---
 
----Version 4.7 - (Dec 02 2024)---
+## Gameplay
 
--Friendly invites have been improved.
+- You can now download and watch anyone's replay via match history
+- You can now navigate the game while in queue
+- You can now earn battle pass experience and character unlock keys against the bot while connected to the game server
+- You can now earn battle pass experience and character unlock keys in friendly matches
 
--Menu Updates.
+---
 
--Minions only show their movement indicator before they are about to move now.
+## Bug Fixes
 
---Bug Fixes--
+- Fixed resolution not updating until game restart
+- Fixed battle pass issue
 
--Daily bonus issue.
+---
 
--Mobile version check issue.
+# Version 4.67
 
--Menu issues.
+---
 
----Version 4.69 - (Nov 28 2024)---
+## Bug Fixes
 
--Visual update for the Rubber Duck Freeze skin.
+- Fixed Sludge/Bomb interaction
+- Fixed coin being flipped backwards for Player 2
 
---Bug Fixes--
+---
 
--Ghost wasn't revealing when moving into range of King/Jester.
+# Version 4.663
 
--Sludge/Goop was broken.
+---
 
--During draft pick the commit draft button was showing before meeting the minimum point threshold.
+## Bug Fixes
 
----Version 4.681 - (Nov 26 2024) **hot fix**---
+- Replay bug fixes
 
---Bug Fixes--
+---
 
--Game invites weren't working since last update.
+# Version 4.66
 
----Version 4.68 - (Nov 24 2024)---
+---
 
--You can now download and watch anyones replay via match history.
+## Gameplay
 
--You can now navigate the game while in queue.
+- Languages added
 
--You can now earn battle pass experience and character unlock keys against the bot and connected to the game server.
+---
 
--You can now earn battle pass experience and character unlock keys in friendly matches.
+## Bug Fixes
 
---Bug Fixes--
+- Fixed Sniper/Bomb causing a resync
+- Fixed bug when watching an online replay that had a Ghost on the enemy team
+- Fixed Angel bug
+- Fixed Mage bug
+- Fixed Prince lilypad not going away when attacking into an Angel
+- Fixed draft text being blocked by raccoon head on start
+- Fixed score keepers being wrong on game start
+- Fixed spawn piece group issue
+- Fixed issue when going into blind invite then going to Team Maker resulting in a blank board
 
--Resolution wasn't updating until game restart.
+---
 
--Battle pass issue.
+# Version 4.65
 
----Version 4.67 - (Nov 17 2024)---
+---
 
---Bug Fixes--
+## Gameplay
 
--Sludge/Bomb interaction.
+- You can now save and watch replays of games
+- Menu changes
 
--Coin was flipped backwards for player 2.
+---
 
----Version 4.663 - (Nov 13 2024)---
+## Bug Fixes
 
---Bug Fixes--
+- Fixed King/Jester/Sludge interaction
+- Tutorial fixes
 
--Replay bugs.
+---
 
----Version 4.66 - (Nov 12 2024)---
+# Version 4.64
 
--Languages added.
+---
 
---Bug Fixes--
+## Gameplay
 
--Sniper/Bomb caused a resync.
+- Improved performance for worse connections
 
--Bug when watching an online replay that had a Ghost on the enemy team.
+---
 
--Angel bug.
+## Bug Fixes
 
--Mage bug.
+- Fixed Mage/Ghost interaction
+- Fixed Sludge/Ghost interaction
+- Fixed Draft bug when picking and another menu gets opened
+- Fixed checkmate being recorded as a stalemate
+- Fixed maintenance warning showing for only 1 second before connecting
 
--Prince lilipad didn't go away when attacking into an Angel.
+---
 
--draft text blocked by raccoon head on start.
+# Version 4.63
 
--score keepers wrong on game start.
+---
 
--spawn piece group issue.
+## Gameplay
 
--issue when going into blind invite then going to team maker will have a blank board.
+- Added queue timer and average queue wait time
+- Added scheduled maintenance notification
+- Added 50-move rule — if no character is knocked out within 50 turns the game is a draw
+- Added draw when no checkmate is available
 
----Version 4.65 - (Nov 2 2024)---
+---
 
--You can now save and watch replays of games.
+## Bug Fixes
 
--Menu changes.
+- Fixed Bomb issues
+- Fixed Copy Cat partner not getting assigned skin
+- Fixed being unable to properly scroll on friends list while dragging
+- Fixed battle pass unlocks not unlocking until game reset
+- Fixed main menu displayed rank not updating properly when coming out of placement matches
+- Fixed scoreboard issues
+- Fixed Sniper/Bomb interaction
+- Fixed Copy Cat in Draft Mode
+- Fixed Angel issue when reconnecting/taking back
+- Fixed Copy Cat/Mage interaction
+- Fixed clicking a character that was moving causing a desync
+- Fixed issue when buying a character from the Team Maker
 
---Bug Fixes--
+---
 
--King/Jester/Sludge interaction.
+# Version 4.62
 
--Tutorial fixes.
+---
 
----Version 4.64 - (Oct 27 2024)---
+## Performance
 
--Should work better for worse connections.
+- Added quality setting; should now run better on mobile devices
 
---Bug Fixes--
+---
 
--Mage/Ghost interaction.
+## Bug Fixes
 
--Sludge/Ghost interaction.
+- Fixed issue with Checker pinned checkmate
+- Fixed stalemate being recorded as a checkmate
 
--Draft bug when picking and another menu gets opened.
+---
 
--Checkmate being recorded as a stalemate.
+# Version 4.611
 
--Maintenance warning showing for only 1 second before connecting.
+---
 
----Version 4.63 - (Oct 22 2024)---
+## Bug Fixes
 
--Added queue timer and average queue wait time.
+- Fixed account linking
 
--Added scheduled maintenance notification.
+---
 
--Added 50 move rule where if no character is knocked-out within 50 turns the game is a draw.
+# Version 4.61
 
--Added draw when no checkmate is available.
+---
 
---Bug Fixes--
+## Bug Fixes
 
--Bomb issues.
+- Fixed Parasite bug introduced while fixing the Devil/Parasite issue
+- Fixed Parasite/Copy Cat interaction
+- Fixed Parasite/Goop interaction
+- Fixed Sludge/Devil interaction
+- Fixed Minion/Minion interaction
+- Fixed Parasite not getting knocked out by explosion
+- Fixed Bomb/Copy Cat interaction
+- Fixed Mage swapping a Giant not properly knocking out characters beneath the Giant
 
--Copy Cat Partner wasnt getting assigned skin.
+---
 
--Couldn't properly scroll on friends list while dragging.
+# Version 4.6
 
--Battle pass unlocks weren't unlocking until game reset.
+---
 
--Main menu displayed rank wasnt updated properly when coming out of placement matches.
+## Bug Fixes
 
--Score board issues.
+- Fixed Angel/Copy Cat interaction
+- Fixed Bomb/Angel interactions
 
--Sniper/Bomb interaction.
+---
 
--Copy Cat in draft mode.
+# Version 4.59
 
--Angel issue when reconnecting/take back.
+---
 
--Copy Cat/Mage interaction.
+## Bug Fixes
 
--Issue when clicking a character that was moving would cause a desync.
+- Fixed Devil/Parasite interaction — minions were changing teams when placed
+- Fixed Rabi skin for Bishop not attacking
+- Fixed Angel/Goop interaction causing desync
 
--Issue when buying a character from the team maker.
+---
 
----Version 4.62 - (Oct 16 2024)---
+# Version 4.58
 
--Added quality setting and should now run better on mobile devices.
+---
 
---Bug Fixes--
+## Bug Fixes
 
--Issue with Checker pinned Checkmate.
+- Fixed Copy Cat/Parasite interaction
+- Fixed Bomb/Parasite interaction — Parasite wasn't knocked out correctly on client
+- Fixed Copy Cat/Goop interaction
+- Fixed Devil/Ghost revealing ghost on server
+- Fixed Checker landing on Ghost causing desync
+- Fixed moving a Ghost into a Checker softlocking the game
 
--Stalemate recorded as a Checkmate.
+---
 
----Version 4.611 - (Oct 15 2024)---
+# Version 4.57
 
--Account linking is fixed.
+---
 
----Version 4.61 - (Oct 14 2024)---
+## Gameplay
 
---Bug Fixes--
+- Added the ability to see patch notes and known bugs in game
 
--Parasite bug was introduced while fixing the Devil/Parasite issue and is now fixed.
+---
 
--Parasite/Copy Cat interaction.
+## Bug Fixes
 
--Parasite/Goop interaction.
-
--Sludge/Devil interaction.
-
--Minion/Minion interaction.
-
--Parasite wasn't getting knocked out to explosion.
-
--Bomb/Copy Cat interaction.
-
--When Mage swapped a Giant it wasn't properly knocking out characters beneath the Giant.
-
----Version 4.6 - (Oct 13 2024)---
-
---Bug Fixes--
-
--Angel/Copy Cat interaction.
-
--Bomb/Angel interactions.
-
----Version 4.59 - (Oct 11 2024)---
-
---Bug Fixes--
-
--Devil/Parasite interaction minions were changing teams when placed.
-
--Rabi skin for Bishop didn't attack.
-
--Angel/Goop interaction causing desync.
-
----Version 4.58 - (Oct 10 2024)---
-
---Bug Fixes--
-
--Copy Cat/Parasite interaction.
-
--Bomb/Parasite interaction Parasite wasn't knocked-out correctly on client.
-
--Copy Cat/Goop interaction fixed.
-
--Devil/Ghost revealing ghost on server.
-
--Checker landing on ghost desync.
-
--Moving a ghost into a checker soft locked the game.
-
----Version 4.57 - (Oct 9 2024)---
-
---Bug Fixes--
-
--Jester/Parasite interaction.
-
--King could attack a Goop and the game would continue.
-
--Issue with the CPU(BOT) not generating a team in certain situations.
-
--Prince checkmate soft locking the game.
-
--Angel/Goop interaction.
-
--Devil/Angel interaction and the Devil is re-enabled for use.
-
--Giant was crashing unranked(blind pick) games during game start
-
--Added the ability to see patch notes and known bugs in game.
-
--Bug where after failing to connect to a game an error would continuously appear.
-
--Bug where server would fail to terminate an invalid game in unranked games (bad team configuration).
+- Fixed Jester/Parasite interaction
+- Fixed King being able to attack a Goop and the game continuing
+- Fixed CPU (bot) not generating a team in certain situations
+- Fixed Prince checkmate softlocking the game
+- Fixed Angel/Goop interaction
+- Fixed Devil/Angel interaction — Devil is re-enabled for use
+- Fixed Giant crashing unranked (blind pick) games during game start
+- Fixed bug where after failing to connect to a game an error would continuously appear
+- Fixed bug where server would fail to terminate an invalid game in unranked games
