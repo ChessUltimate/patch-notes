@@ -2,6 +2,12 @@
 
 ---
 
+## Balance
+
+- Cow value 10 → 5
+
+---
+
 ## Performance
 
 - Improved Shop performance on lower-end phones
@@ -15,36 +21,19 @@
 
 ---
 
-## Bug Fixes — Gameplay
+## Bug Fixes
 
 - Fixed 10-minute games sometimes ending in a forfeit before time ran out
 - Fixed some endgames being called a stalemate when they weren't (e.g. King + Angel + Bishop vs King + Turtle)
 - Fixed the Cow not being able to target Halo and Goop pieces
 - Fixed the Cow not targeting Giants correctly
 - Fixed the game sometimes starting twice
-
----
-
-## Bug Fixes — Ranked & Draft
-
 - Fixed draft board issues in Ranked
 - Fixed point values not matching between the draft and the server
-- Fixed the Cow's point value
-
----
-
-## Bug Fixes — Puzzles
-
 - Fixed approved puzzles going back to unapproved
-
----
-
-## Bug Fixes — General
-
-- Fixed Giants being deleted from saved armies
+- Fixed not being able to remove Giants from teams
 - Fixed the bot's point amount setting not applying
 - Fixed bans not showing correctly
-
 
 # Patch 5.74
 
