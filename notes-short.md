@@ -1,3 +1,51 @@
+# Patch 5.741
+
+---
+
+## Performance
+
+- Improved Shop performance on lower-end phones
+
+---
+
+## UI
+
+- Improved character select scaling on phones
+- Improved the puzzle screen layout on phones
+
+---
+
+## Bug Fixes — Gameplay
+
+- Fixed 10-minute games sometimes ending in a forfeit before time ran out
+- Fixed some endgames being called a stalemate when they weren't (e.g. King + Angel + Bishop vs King + Turtle)
+- Fixed the Cow not being able to target Halo and Goop pieces
+- Fixed the Cow not targeting Giants correctly
+- Fixed the game sometimes starting twice
+
+---
+
+## Bug Fixes — Ranked & Draft
+
+- Fixed draft board issues in Ranked
+- Fixed point values not matching between the draft and the server
+- Fixed the Cow's point value
+
+---
+
+## Bug Fixes — Puzzles
+
+- Fixed approved puzzles going back to unapproved
+
+---
+
+## Bug Fixes — General
+
+- Fixed Giants being deleted from saved armies
+- Fixed the bot's point amount setting not applying
+- Fixed bans not showing correctly
+
+
 # Patch 5.74
 
 ---
